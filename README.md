@@ -1,4 +1,4 @@
-#Data Engineering Platforms Project
+# Data Engineering Platforms Project
 
 ## Cryptocurrency Prediction Platform
 ### Cryptocurrency Information
