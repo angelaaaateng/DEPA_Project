@@ -11,3 +11,4 @@ Data Engineering Platforms Project
   - Hashtags
 - News Articles
   - TechCrunch
+* Note that this is a time-based analysis 
