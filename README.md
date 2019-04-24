@@ -17,3 +17,10 @@
 To Do:
 - Visualization
 - Recommendations
+- Manually matching subreddits to cryptocurrency
+  - Ticker + hashtags
+
+Next Steps:
+- Webscraping
+- Pricing Information 
+- Timeframe: April 1 2017 to April 1 2019
