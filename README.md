@@ -1,8 +1,7 @@
-# DEPA_Project
-Data Engineering Platforms Project
+#Data Engineering Platforms Project
 
-# Cryptocurrency Prediction Platform
-## Cryptocurrency Information
+## Cryptocurrency Prediction Platform
+### Cryptocurrency Information
 - Pricing Data
 - Reddit Comments
   - Overall Website Engagement
@@ -11,4 +10,4 @@ Data Engineering Platforms Project
   - Hashtags
 - News Articles
   - TechCrunch
-* Note that this is a time-based analysis 
+*Note that this is a time-based analysis
