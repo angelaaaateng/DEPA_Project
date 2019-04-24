@@ -22,5 +22,16 @@ To Do:
 
 Next Steps:
 - Webscraping
-- Pricing Information 
+- Pricing Information
 - Timeframe: April 1 2017 to April 1 2019
+
+Data Sources + Useful Resources:
+- https://coinmetrics.io/data-downloads/
+- https://coinmarketcap.com/api/documentation/v1/#operation/getV1CryptocurrencyInfo
+- https://www.reddit.com/r/datasets/comments/65o7py/updated_reddit_comment_dataset_as_torrents/
+- https://praw.readthedocs.io/en/latest/code_overview/reddit_instance.html
+- http://www.storybench.org/how-to-scrape-reddit-with-python/
+- https://praw.readthedocs.io/en/latest/getting_started/authentication.html#script-application
+- https://www.reddit.com/r/redditdev/comments/2dew9d/which_base_url_should_i_use_for_api_calls/
+- https://www.reddit.com/r/redditdev/comments/85n0wc/what_do_i_put_to_these_fields_in_create/
+- https://docs.google.com/document/d/1qxpYFnbUG4oKRUxjfE6TMBOYn8mMvA6IljWaI8Jh7QM/edit
