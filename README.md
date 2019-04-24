@@ -2,9 +2,12 @@
 Data Engineering Platforms Project
 
 # Cryptocurrency Prediction Platform
-Cryptocurrency Information
+## Cryptocurrency Information
 - Pricing Data
 - Reddit Comments
   - Overall Website Engagement
   - Specific Subreddit Engagement
-- Twitter 
+- Twitter
+  - Hashtags
+- News Articles
+  - TechCrunch
