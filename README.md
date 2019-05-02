@@ -20,6 +20,22 @@ To Do:
 - Manually matching subreddits to cryptocurrency
   - Ticker + hashtags
 
+Data Sources: 
+- Crypto Pricing 
+  - time 
+  - price
+- Reddit 
+  - Time 
+  - Title 
+  - Score
+  - Number of Comments
+  - Body 
+- Twitter
+  - Time 
+  - Post
+  - Tags 
+  - Number of Retweets
+
 Next Steps:
 - Webscraping
 - Pricing Information
