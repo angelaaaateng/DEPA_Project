@@ -22,6 +22,7 @@ To Do:
 
 Data Sources: 
 - Crypto Pricing 
+  - Crypto name 
   - time 
   - price
 - Reddit 
