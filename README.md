@@ -54,3 +54,5 @@ Data Sources + Useful Resources:
 - https://docs.google.com/document/d/1qxpYFnbUG4oKRUxjfE6TMBOYn8mMvA6IljWaI8Jh7QM/edit
 
 http://cryptohypetrader.com
+
+https://github.com/karthik111/Cryptocurrency-price-analysis/blob/master/Crypto_analysis.ipynb
