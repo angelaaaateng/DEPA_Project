@@ -1,5 +1,6 @@
 # Data Engineering Platforms Project
-Nazih Kalo, Akarsh Sahu, Sowmya, Angela Teng
+A project by: Nazih Kalo, Akarsh Sahu, Sowmya, Angela Teng
+Created for: Shree Bharadwaj 
 
 ## Cryptocurrency Prediction Platform
 ### Cryptocurrency Information
