@@ -1,4 +1,5 @@
 # Data Engineering Platforms Project
+Nazih Kalo, Akarsh Sahu, Sowmya, Angela Teng
 
 ## Cryptocurrency Prediction Platform
 ### Cryptocurrency Information
