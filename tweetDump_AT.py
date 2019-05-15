@@ -5,7 +5,7 @@ import csv
 import sys
 from getTwitterHandles import getTwitterHandles
 
-# Twitter API credentials (expired, don't even try it)
+# Twitter API credentials 
 consumer_key = "EFhcDsaecX9e4FlQXyRDHrVaq"
 consumer_secret = "LpubHL3haoM2nyI5qOpk0BiC7KZxTSryMZSCvFPIuCfoHd5jCd"
 access_key = "307813351-7fl2kA1mvs0K1vF45X1Yaukp5qVzhX3cObb5KNVY"
