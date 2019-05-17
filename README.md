@@ -57,3 +57,21 @@ Data Sources + Useful Resources:
 - https://docs.google.com/document/d/1qxpYFnbUG4oKRUxjfE6TMBOYn8mMvA6IljWaI8Jh7QM/edit
 - http://cryptohypetrader.com
 - https://github.com/karthik111/Cryptocurrency-price-analysis/blob/master/Crypto_analysis.ipynb
+
+
+FOR GOOGLE TRENDS:
+
+
+level 1
+call_me_cookie
+1 point
+·
+5 years ago
+Ok, me again.
+Sorry I didn't reply to your last comment. I didn't quite understand what exactly you were after.
+If I understand you correctly, you want to compare the Google Trends Data for 500 different keywords, because GT only lets you view 5 at a time, and you want to compare more than 5 on an objective basis.
+If this is the question, you are bang in luck! I solved this problem for my employer long ago.
+What you want to do is download each keyword individually, but each time with another 'reference' keyword with quite high and quite stable volume. When GT displays data for a keyword, the search volume displayed is normalised to a percentage of the maximum search volume (there are some other normalisations to remove global trends in Google traffic but these aren't important.)
+I'll give you an example: Say you wanted to compare the trends for the word 'ferrari' and the word 'porsche', without having to type them in on GT. Lets choose 'book' as a reference keyword. Using the gist I posted, download the trends for the keywords ['book','porsche'] and the keywords ['book','ferrari']. Now, you have downloaded two reports, one comparing the keywords book and ferrari, the other comparing the words book and porsche. Because in the individual reports, each keyword is normalised against the keyword 'book', the trends for 'porsche' and 'ferrari' have the same normalisation factor, i.e. when you plot the downoaded trends for 'porsche' and 'ferrari' against each other, it will look the same as if you had searched on Google Trends for ['porsche','ferrari'].
+This is then trivially extended to as many keywords you want. For each keyword you want Trends for, download the report for that keyword and a reference keyword, the trends you have for each keyword will then have the same normalisation factor and you can compare them objectively!
+Hope this has answered your question, if not, keep 'em coming :)
