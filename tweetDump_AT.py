@@ -7,7 +7,7 @@ from getTwitterHandles_AT import getTwitterHandles
 import re
 
 
-# Twitter API credentials (expired, don't even try it)
+# Twitter API credentials 
 consumer_key = "7loZ1Jrzi8lEClQpUPZ03AWAJ"
 consumer_secret = "OupVSlv6IV3LoP4j7FRg4tiecD6He5XfT035NsDr93CfWkCfqx"
 access_key = "307813351-umbg9GQz59PwbMgz2yY7fiDAeUpTUBHcwc05JdU9"
