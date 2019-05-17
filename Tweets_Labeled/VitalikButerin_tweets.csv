@@ -1,0 +1,534 @@
+id,created_at,text
+1129159434171764736,2019-05-16 22:59:22,"RT @officialmcafee: Folks asking my opinion of Ethereum:
+
+Well . . .. Frankly, I prefer one syllable coins and am not fond of Ethereum's sp…"
+1128981143846621184,2019-05-16 11:10:54,"@yslcrypto @barnabemonnot &gt; More formally, instead of earning a reward of R/N each round, each visible signing vali… https://t.co/8XeWEpKmSX"
+1128978618225446912,2019-05-16 11:00:52,@francispouliot_ @La__Cuen @polychaincap Because there's no way to do the things we wanted to do on top of bitcoin… https://t.co/QAlsNsi9yQ
+1128766220151545856,2019-05-15 20:56:53,"@joeykrug Huh, why? Weren't they going go be a frontend for the Augur contract system? Was that plan changed?"
+1128074667271643138,2019-05-13 23:08:53,"@deadalnix @antsankov @ampajaro @monsterbitar Speaking of work I've done that's relevant to BCH, what's people's fa… https://t.co/PbLUgZ6dkn"
+1127928490093887493,2019-05-13 13:28:02,"@NumeroIogynow It means ETH is less likely to break than before, and can scale considerably more once eth1.x runs its course."
+1127919665601081344,2019-05-13 12:52:58,"Latest Ethereum uncle rate vs gas regression:
+
+Uncle rate = 0.033 + 0.0065 per million gas.
+
+The increased uncle ra… https://t.co/JTze5ZNPHI"
+1126982359147077632,2019-05-10 22:48:27,RT @raulitojordan: One of the biggest milestones for the new chapter of Ethereum is live :) #Ethereum @prylabs https://t.co/wUWqNkQ8i8
+1126946858675236865,2019-05-10 20:27:23,@DanielTunjic The above wasn't even intended to be against Monero in any way. I'm following this debate between dif… https://t.co/8YLV8fS3ga
+1126946357653135360,2019-05-10 20:25:23,@DanielTunjic I hope Monero overcomes its obstacles by switching to privacy schemes that make the anonymity set for… https://t.co/E0fYFz2cms
+1126191900061364224,2019-05-08 18:27:27,@peterktodd @BenDiFrancesco @barinov @builtoneth @opentimestamps On Bitcoin this would require scanning through every transaction.
+1126148337021800448,2019-05-08 15:34:21,@pierre_rochard @Chris_Stewart_5 @novogratz @cz_binance The idea that bitcoin is better than the traditional bankin… https://t.co/GK3AGELavm
+1126147402182868992,2019-05-08 15:30:38,"@JeremyRubin @cz_binance @novogratz @_prestwich &gt;Bitcoin has, as a part of consensus, that &lt; 100 blocks isn't final… https://t.co/uKWbzCL9D9"
+1126143811455832064,2019-05-08 15:16:22,"@Chris_Stewart_5 @pierre_rochard @novogratz @cz_binance This is a key difference, though it's not necessary for a r… https://t.co/1iA9EFTZhD"
+1126096874039988224,2019-05-08 12:09:51,@novogratz @cz_binance Ethereum did a surgical irregular state change. We never even considered actually rolling ba… https://t.co/SjEAuQUUBb
+1126086429870739457,2019-05-08 11:28:21,@barinov @builtoneth @opentimestamps Anything bitcoin-based is less convenient because it's much harder to make it light-client-friendly.
+1124209907039739904,2019-05-03 07:11:43,"A different take from @interfluidity on what ethereum is (or could be!) about:
+
+https://t.co/3wF71cqL02"
+1123161093159866368,2019-04-30 09:44:06,"@MountCrypto @charlesfuchs @elonmusk @AkashaProject is a great project!
+
+Though I think using an ethereum account t… https://t.co/viJWnIDK9V"
+1123142228430376960,2019-04-30 08:29:08,@charlesfuchs @elonmusk *Replace* facebook sign in with ethereum accounts (once we figure out decentralized recovery schemes that work well)
+1122830112481693701,2019-04-29 11:48:54,"RT @ethnimbus: Newest dev update is out. Apart from Byzantium in #Ethereum 1.0, we now also support Whisper and the build works on Windows.…"
+1122806013285912577,2019-04-29 10:13:08,@PhilJBonello @zack_bitcoin Do you have a link to a doc?
+1122160642016698370,2019-04-27 15:28:40,"@IAmNickDodson @Stan_Kladko @zmanian Eth 1.0 already supports aggregate and threshold BLS since Byzantium!
+
+Just no… https://t.co/tCN5OnT9oq"
+1121629853214621696,2019-04-26 04:19:30,"RT @ptsankov: Happy to release VerX (https://t.co/x0Dxqq4Bkj), the first system for full functional verification of Ethereum contracts, bri…"
+1121276235236220928,2019-04-25 04:54:21,"RT @drakefjustin: Filecoin and Ethereum 2.0 collaborate on various fronts—libp2p, VDFs, BLS12-381, secret single-leader election. Yay for w…"
+1121103525843480577,2019-04-24 17:28:04,@bitcoinization @Maxahoy Just use buttcoin's. Methereum (symbol METH).
+1120943189202960385,2019-04-24 06:50:57,"Surprised that few are taking the ""OMG scary mass surveillance"" angle on this one. Just think about how often you'l… https://t.co/JRAlYGqcHg"
+1119661599852322816,2019-04-20 17:58:22,@MicahZoltu @CleanApp @junseth @PeterMcCormack In the medium run I if course hope that the crypto space learns to r… https://t.co/38De0FyXli
+1119659197904379904,2019-04-20 17:48:49,"@CleanApp @junseth @PeterMcCormack To less process-minded cultures, Binance delisting BSV is arguably a very positi… https://t.co/jRiXfLMLbX"
+1119516735101648897,2019-04-20 08:22:43,@oliverbeige @matthew_d_green @ofnumbers Bali has 6 airports to handle all the Tron conferences.
+1119504448185933824,2019-04-20 07:33:54,"@reganraja36 @matthew_d_green @ofnumbers No, TLS is hosted on BSV, it's just *trading* against BNB, which is also n… https://t.co/wKPBhdtfiM"
+1119487768671989763,2019-04-20 06:27:37,"@matthew_d_green @ofnumbers Nonsense, TLS/BNB just hit an all time high in 2044 after their recent governance release!"
+1119148572107165696,2019-04-19 07:59:47,"@brian_armstrong Fun fact: I tried to be an intern at Ripple back in the day (mid 2013), but US visa complications… https://t.co/kzGCTo5MWX"
+1118874459916656640,2019-04-18 13:50:33,An excellent and important thread by @owocki. It's great to see how quickly the ethereum community has moved toward… https://t.co/XBkeSgSLGw
+1118777175010947072,2019-04-18 07:23:59,"RT @CapeTown: Ethereum co-founder @VitalikButerin to speak at #ETHCapeTown hackathon @VandAWaterfront courtesy  @LinumLabs
+
+ https://t.co/a…"
+1118772815401033730,2019-04-18 07:06:39,@TBOBrightonHove The Ethereum blockchain is definitely a public space.
+1118436299176914944,2019-04-17 08:49:27,@gulovsen I agree it's a tough question. I'm more confidently in favor of my position that BSV should be delisted f… https://t.co/WzMxpkdvOr
+1118411262570921984,2019-04-17 07:09:58,@zndtoshi Using bitcoin for what I suggest would not be light client friendly.
+1118405098449903617,2019-04-17 06:45:29,Yay using ETH accounts for logins. It's honestly a more realistic go-to-market strategy for self-sovereign identity… https://t.co/rxEOdiXlea
+1117805871096983552,2019-04-15 15:04:22,@matthew_d_green @RabbitBusiness Bitcoin Private inflation bug? The one where (AFAIK) 2.2m coins were printed becau… https://t.co/pzJ8adwdT4
+1117774574563647488,2019-04-15 13:00:00,"RT @econoar: Ethereum 2.0 specs growing fast!
+
+Beacon Chain: https://t.co/smBmnkghqu
+
+Validators: https://t.co/OQ1t1shE4w
+
+Custody Game: ht…"
+1117411141909540864,2019-04-14 12:55:51,"@EliBenSasson @ArthurB @StarkWareLtd @virgilgr @EthereumFounda5 @ethereum (2) especially is a good point I haven't thought about, thank you!"
+1117220016728891392,2019-04-14 00:16:23,@ArthurB @EliBenSasson @StarkWareLtd @virgilgr @EthereumFounda5 @ethereum Yep it does; you can define x -&gt; x**3 + k[i] over any field.
+1117219565820203009,2019-04-14 00:14:36,@ArthurB @EliBenSasson @StarkWareLtd @virgilgr @EthereumFounda5 @ethereum @EliBenSasson thoughts?
+1117217567301484544,2019-04-14 00:06:39,@ArthurB @EliBenSasson @StarkWareLtd @virgilgr @EthereumFounda5 @ethereum STARK friendly hash functions are also al… https://t.co/ojW4FCe0DZ
+1117216501189103616,2019-04-14 00:02:25,@ArthurB @EliBenSasson @StarkWareLtd @virgilgr @EthereumFounda5 @ethereum I don't mean doing binary Galois math ins… https://t.co/GZ5qjSgzjT
+1117206229619601408,2019-04-13 23:21:36,"@EliBenSasson @StarkWareLtd @virgilgr @EthereumFounda5 @ethereum But still, what about my argument that low arithme… https://t.co/Eol4p11xvy"
+1117205568530206720,2019-04-13 23:18:58,@EliBenSasson @StarkWareLtd @virgilgr @EthereumFounda5 We're @ethereum. Hopefully you don't have a commitment to airdrop scammers 😊
+1116883344174641152,2019-04-13 01:58:34,"RT @ggreenwald: Also, the question ""is X a 'journalist'?"" - as though it's a credentialed, licensed status like being a doctor or lawyer -…"
+1114678566929584129,2019-04-06 23:57:34,RT @therealyingtong: i helped write one of these! :-D ZIP 221: a modification to block header formats would allow for ZCash light clients t…
+1114658513618210816,2019-04-06 22:37:53,"@udiWertheimer To be clear, I had no idea that BSV was coming. The panel said ""Bitcoin Scaling and Economics"", I ev… https://t.co/q05Q5lHq6C"
+1113983527588995074,2019-04-05 01:55:44,"Kinda disappointed @Deconomy_forum  is again giving airtime to BSV shills, this time a panel of them.
+
+At least the… https://t.co/Lso58wFvG9"
+1113593214001266689,2019-04-04 00:04:46,@IslandHunting @Hex_Capital @mhass33 @lrettig @cyber_hokie @cryptoecongames @technocrypto Ethereum should steadfast… https://t.co/MPMXtIttb9
+1113585776992739328,2019-04-03 23:35:13,RT @tracyalloway: Avocado prices are clearly tracking Bitcoin. https://t.co/JgxrwnzWcw
+1113563642459344897,2019-04-03 22:07:16,"RT @clearmatics: Yesterday, we published our paper “ZETH: On Integrating Zerocash on Ethereum.”
+You can find the paper at: https://t.co/zrY…"
+1113559805543702528,2019-04-03 21:52:01,"RT @protolambda: Tweetstorm about #eth2 development
+
+""The ETH 2.0 testing saga""
+
+In context of some of my traveling
+ 🇫🇷 🇭🇰 🇹🇼 🇦🇺
+
+#ethereum…"
+1113205777404006400,2019-04-02 22:25:14,@oliverbeige Does that mean if bitcoin goes to $100k Kim Kardashian will be president?
+1112151825375887360,2019-03-31 00:37:12,"@ricburton @JTremback @laurashin @MakerDAO It was possible and not that hard to buy MKR on public markets (namely,… https://t.co/JtubKGxpdS"
+1111907885536161793,2019-03-30 08:27:52,"@zhusu I'm thinking more of Kitts, St Lucia, etc, not so much big countries. Of course CA/NZ/AU/SG are rolling thos… https://t.co/oOsbtCLmWU"
+1111796597950693376,2019-03-30 01:05:39,@Mario_Gibney @josephjpeters The solution to consensus can absolutely depend on consensus. Bitcoin relies on such c… https://t.co/zSpF30wxqm
+1111463222882779141,2019-03-29 03:00:56,RT @sassal0x: Ethereum 2.0 Phase 0 public testnet coming very soon! I cannot contain my excitement! 😍 https://t.co/sK9hXOdToT
+1111462349158928384,2019-03-29 02:57:28,"@glenweyl @crainbf Namely, kings in reality seem like a very risky dice roll, for every LKY there are multiple KJU'… https://t.co/kkor29QiS3"
+1111243004361273350,2019-03-28 12:25:52,@pierre_rochard @ProofofResearch @RyanSAdams There's been entire sets of memes praising bitcoin for being able to m… https://t.co/cQ9ObnRBJP
+1110728895115022336,2019-03-27 02:22:59,"RT @cemozer_: Artemis, PegaSys’s ETH 2.0 client, processing attestations, blocks and finalizing epochs. No biggie. https://t.co/F3jvtGILwq"
+1110697755503153152,2019-03-27 00:19:15,"RT @robinhanson: Easy way to check on startup: call random name on board of advisors, see if they've ever been asked to give advice."
+1110595227130171392,2019-03-26 17:31:50,@igorls1 @eosnewyork @coreyj_miller @eosriobrazil So like an ethereum archive node then?
+1110540589806874624,2019-03-26 13:54:44,"@eosnewyork @coreyj_miller Curious, what's the EOS *state size* at the moment?"
+1110018582283538433,2019-03-25 03:20:27,"@___zazazu @iamtexture I think ""the ethereum community"" (or bitcoin or dogecoin) is less vague than ""the right wing"" honestly."
+1109092416118812673,2019-03-22 14:00:12,"Great summary of some of the unsung heroes of Ethereum core R&amp;D:
+
+https://t.co/JyMPMDtLeP"
+1108048471666364416,2019-03-19 16:51:56,"RT @econoar: A new Into the Ether is out!
+
+This week I talk with @VitalikButerin, founder of Ethereum, to discuss the current and future st…"
+1107474836757069825,2019-03-18 02:52:31,RT @technocrypto: The most dangerous thing in the world to #Ethereum is if it stops being fun.
+1107203854012080128,2019-03-17 08:55:44,@CrptoJoe @JacobCanfield @justinsuntron Wait why am I being compared to Javascript? Most ethereum dapps also use JS… https://t.co/cD4arT55K9
+1106813859107491840,2019-03-16 07:06:02,"RT @ethnimbus: Beacon node simulation with 768 validators and 75 nodes chugging along...
+
+#serenity #ethereum https://t.co/zZR6IyFCZ8"
+1106719644482568192,2019-03-16 00:51:39,"RT @icebearhww: Taipei Meetup slides - Life of an Ethereum beacon chain validator - spec v0.5.0 🤓
+
+Thanks to @eth_taipei @ethfans @VitalikB…"
+1106505480686333957,2019-03-15 10:40:39,"RT @drakefjustin: The ""secret single-leader election problem"" is also relevant for Ethereum 2.0/3.0, and many other proof of stake systems.…"
+1106062067969085440,2019-03-14 05:18:41,"RT @maxenjin: Hey @VitalikButerin, we've teamed up with @senstweet to gamify SENS donations using #ethereum and #erc1155. If anyone donates…"
+1105723709917093888,2019-03-13 06:54:10,"RT @ethnimbus: The Nimbus @Ethereum 1.0 sync progress is now at block 1155095 / 7358969
+😱
+
+████░░░░░░░░░░░░░░░░░░░░░░░░░ 15.69%
+
+https://t.…"
+1105316794527608834,2019-03-12 03:57:14,"@realLudvigArt @weissjeffm @giacomozucco False, Ethereum full nodes that are not archive nodes carry the full histo… https://t.co/bmWaRSP4gB"
+1104952757168025600,2019-03-11 03:50:40,"RT @sparkfestivalau: The EDCON2019 show lands in Sydney! This is a genuine ""meeting of the tribes"" for worldwide @ethereum communities and…"
+1104763383012745218,2019-03-10 15:18:10,"RT @eth_classic: #PeaceBridge ETC-ETH Bridge Nears Completion!
+
+This ETC/ETH bridge is thanks to the collaborative efforts by the builders…"
+1104206140248940544,2019-03-09 02:23:53,"@econoar @nicksdjohnson The number in gwei stays the same regardless of the ETH/USD price, yes."
+1104204741792411648,2019-03-09 02:18:20,@bitcoinization @timoncc @theinstagibbs There were no pre-public-sale private sales of ETH.
+1104031010952486912,2019-03-08 14:47:59,@licuende Remember that an ethereum wallet/client is inherently a high trust thing; a bad one could steal all your… https://t.co/oVjbKlUC0T
+1104004701895491585,2019-03-08 13:03:27,"@phildaian The $2M assumed 100% compliance and current prices, so 40b gas/day * 1 gwei * $137/eth * 365 days = $2000200/year."
+1103984233855496192,2019-03-08 11:42:07,"RT @jcksie: A tweet storm about the first 64 epochs in the life of the #eth beacon chain state, in a rosy world where nothing but love flow…"
+1103831337750806529,2019-03-08 01:34:33,@0xstark One of the symbols for ETH is the Greek letter Ξ which looks a lot like the Chinese character 三 which mean… https://t.co/V41QUcVO7W
+1103825628128636929,2019-03-08 01:11:52,"@cyounessi1 @_DatMine_ @RyanSAdams @Delphi_Digital &gt; can Ethereum operate without, quite literally, storing any val… https://t.co/NKM2a9FlvJ"
+1103825161684283392,2019-03-08 01:10:01,@_DatMine_ @RyanSAdams @Delphi_Digital If literally almost no one uses it and ETH value drops so there's no source… https://t.co/bv8o9QA9mX
+1103823078826532869,2019-03-08 01:01:44,@_DatMine_ @RyanSAdams @Delphi_Digital I think that is false. People using ETH as SOV is definitely *very good* for… https://t.co/GjNqN16CJp
+1103821658102456320,2019-03-08 00:56:05,"@RyanSAdams @Delphi_Digital If the cost to process one shard exceeds staking rewards from 32 eth, then that means t… https://t.co/Iln4UAO2fy"
+1103820495932162048,2019-03-08 00:51:28,@RyanSAdams @Delphi_Digital That seems very unlikely to be true. That implies that 1m ETH/year rewards cannot pay f… https://t.co/iFFCiyqved
+1103480281724403712,2019-03-07 02:19:35,"@zmanian @cosmos I'd say that's still 2 orders of magnitude away from being a serious issue.
+
+And also BNB always h… https://t.co/uPEDFaPz51"
+1103474700246630400,2019-03-07 01:57:24,RT @technocrypto: The common error of non-Africans in treating the entire continent like one country is fully two levels removed from the r…
+1103312908493045760,2019-03-06 15:14:30,"@100trillionUSD Sure, but ""doesn't affect the supply of bitcoin"" is meaningless if all cryptos are perfect substitu… https://t.co/t6Dk5UFOg4"
+1102945624096301056,2019-03-05 14:55:03,RT @ensdomains: So glad to hear @opera is integrating ENS + IPFS! 👏👏👏 Woohoo! #ethereum https://t.co/maYb5KOWGo
+1102823926067941376,2019-03-05 06:51:28,"RT @Goltra: Once I can collateralize my DOGE position to create DAI, it's over for u bitchez. https://t.co/Z9MRUpD27i"
+1102821038885203968,2019-03-05 06:39:59,"Wrapped non-ethereum tokens on the ethereum chain are an important development to watch closely!
+
+Though I do hope… https://t.co/hBv0IvaKBp"
+1102818976868888576,2019-03-05 06:31:48,RT @coinbase: “Bitcoin — and crypto more generally — is about the rights of the individual and about the technological protection of civil…
+1102586108011962368,2019-03-04 15:06:27,"@peter_szilagyi @ProfFaustus He identified you as an ethereum person, and so likely go reply to his tweets criticiz… https://t.co/dgL9Xn5DCz"
+1102585664132935680,2019-03-04 15:04:42,"RT @econoar: I just published “Fixing the Ethereum Fee Market”.
+
+https://t.co/0HvAKopGBI"
+1102067415435829249,2019-03-03 04:45:21,"@gakonst @AFDudley0 @socrates1024 @paddykcl That's basically it in bitcoin, but the race conditions only have perma… https://t.co/wk1dQtcXvk"
+1102054273024647168,2019-03-03 03:53:08,@AFDudley0 @socrates1024 @paddykcl @gakonst One big practical difference between bitcoin and ethereum is that race… https://t.co/qJiI7WnhfH
+1101836689268400129,2019-03-02 13:28:32,"RT @fermatslibrary: Geneva Drive: A mechanism that converts continuous motion into discrete motion. 
+
+The name was derived from its usage i…"
+1100614466784264192,2019-02-27 04:31:51,"Really happy to see progress on low-tech privacy improvements in ethereum: https://t.co/cvWtshSDvB
+
+See also: my th… https://t.co/cxFU0vEqYO"
+1100191076466348032,2019-02-26 00:29:27,@TRONDApps @bitcoinsguide @justinsuntron That interview was from Aug 2017. Tron acquired bittorrent in Jul 2018. My… https://t.co/OC3b7WmeTj
+1099967527172468736,2019-02-25 09:41:09,@factcheckmypost @BitcoinErrorLog Sharding a la ethereum uses some very particular techniques to maintain its prope… https://t.co/S4X9931Fv1
+1099965995228094464,2019-02-25 09:35:04,"@factcheckmypost @BitcoinErrorLog Sidechains, drivechains, etc are all fundamentally insecure or centralizing, see https://t.co/8uG2J90jaG"
+1099497025748398080,2019-02-24 02:31:33,"@pierre_rochard I think you want to use XRP. The chart for XRP/XRP would look the same so it's also sound money, bu… https://t.co/p0ChtfArCE"
+1099486212442677249,2019-02-24 01:48:35,"RT @interfluidity: fwiw slides to my weirdest, sprawling-est, presentation yet, on “decentralization”, democracy, blockchains, and acid. ht…"
+1099302350454370304,2019-02-23 13:37:59,"RT @peter_szilagyi: Ha! An #Ethereum fork named after me. God I hope it won't be a flop, I don't want to enter Ethereum history books as a…"
+1099273522034106368,2019-02-23 11:43:25,@lirazsiri @kristianak @parthi292929 @vsinghdothings I think the key idea is that CLR penalizes altruism much less than the status quo.
+1098780421498662912,2019-02-22 03:04:01,@evan_van_ness @fubuloubu @econoar @ethereum Not sure I like this logic. Anchoring on historical evidence is indisp… https://t.co/7295zNA8ay
+1098385137258119168,2019-02-21 00:53:18,"@econoar @ameensol I moved my writings off the blog to make a stronger separation between ""Ethereum"" and ""Vitalik's… https://t.co/niNMzh9Xq0"
+1098361852260683776,2019-02-20 23:20:46,"@ameensol If you want an even older source for archaeology, here's my bitcoin magazine archive: https://t.co/BeD8IaRJqu"
+1098227536268386309,2019-02-20 14:27:03,@avsa Honestly my twitter is horribly optimized for shilling; like 3/4 of my tweets don't even have anything to do with ethereum...
+1098180686974980096,2019-02-20 11:20:53,"@getnuo @UniswapExchange @KyberNetwork Can you explain more fully? Let's say for example ETH/DAI is at 150, and I o… https://t.co/Cs7uEQXSAo"
+1098138043309912064,2019-02-20 08:31:26,RT @icebearhww: A grand tour of Ethereum 2.0 with The Ðrake @drakefjustin (EF) and Alex (Near Protocol)! https://t.co/kE7VbZLThh
+1097377724388102144,2019-02-18 06:10:12,"RT @RhysLindmark: 16/ @hudsonjameson's pragmatic q: ""What do you think of Ethereum's current governance, esp. on big decisions?""
+
+@aantonop…"
+1097317312275705856,2019-02-18 02:10:09,"@CharlieShrem I think Istanbul is the name of the *next* hard fork.
+
+https://t.co/QcQB8ZfdP5"
+1097129016274767873,2019-02-17 13:41:55,@factcheckmypost @RyanSAdams @loomnetwork @cosmos Ethereum is Bitcoin's sidechain via WBTC 😊
+1096771541709156352,2019-02-16 14:01:27,"@fluffypony @tommyp408 @anondran The Ethereum codebase contains comments written in the English language, which has… https://t.co/e7F3yrB8Ws"
+1096337019377197057,2019-02-15 09:14:49,RT @cburgdorf: I'm really excited about the future of Trinity. I'm pretty confident that we'll soon have a Ethereum node written in modern…
+1094892442120204289,2019-02-11 09:34:34,"RT @tkorwin: The first verified Ethereum Smart Contract written in Vyper on etherscan:
+https://t.co/URtegZjw9w
+
+#Ethereum #Vyper #SmartCont…"
+1094809536962154496,2019-02-11 04:05:08,"RT @dannyryan: 1/ There has been a lot of discussion around ""leadership"" in Ethereum 2.0 this past week, much around the lack of it. I tend…"
+1093834368596959233,2019-02-08 11:30:10,"RT @0xstark: hey twitter - helping put together a resource aimed at devs who are *not* deep into protocol research, but wondering how ETH 2…"
+1093317471283511297,2019-02-07 01:16:12,"@hrdwrknvrstps Ultimately, be a sister chain to ethereum that more strongly values immutability? Nothing illegitimate about that."
+1093087630466502658,2019-02-06 10:02:54,RT @peter_szilagyi: Ever wondered how an #Ethereum audit looks like? @mhswende just uploaded two of our past audit reports to @github: one…
+1093038590085324801,2019-02-06 06:48:02,"@hrdwrknvrstps Agree that ETC, OMG, Status and Ethereum itself need critical scrutiny."
+1093038333205274624,2019-02-06 06:47:00,"@hrdwrknvrstps I'm *definitely* willing to be very critical people I consider bad for the space. See: CSW, Tron, Io… https://t.co/98JXw1ftA0"
+1092937217465475072,2019-02-06 00:05:13,@joeykrug @bmc_ @RyanSAdams @dannyryan @ameensol Have you thought about how/to what extent augur would need to be redesigned to handle rent?
+1092639666392555525,2019-02-05 04:22:51,"RT @cdetrio: Just realized that the selfish mining threshold on Ethereum Classic is 10% (or 5%, because of tie-breaking rule in geth), acco…"
+1091487094000607232,2019-02-02 00:02:56,@scottwalker99 @VladZamfir Yep! No name change planned.
+1091402010618867713,2019-02-01 18:24:51,"I hope that if experiments like https://t.co/OFy7ZD72a6 go well, the Zcash community considers replacing its curren… https://t.co/6nckuJWVXO"
+1090832160905293824,2019-01-31 04:40:28,@highsidecrypto @arjunblj @0xstark @yassineARK I hold 0.35% of ETH.......
+1090701662153367552,2019-01-30 20:01:55,@arjunblj @0xstark @yassineARK Right so it's about greater levels of status quo favoring fundamentally?
+1090700252137410560,2019-01-30 19:56:18,@arjunblj @0xstark @yassineARK Challenge question: isn't bitcoin being unconstrained by assuming without evidence t… https://t.co/VqvFwIuW6U
+1090693269523054592,2019-01-30 19:28:34,@arjunblj @0xstark @yassineARK I think I dislike the Sowellian framing because it implies ethereum doesn't accept i… https://t.co/v2bWqBG2Rs
+1090692368729235456,2019-01-30 19:24:59,"@arjunblj @0xstark @yassineARK Bitcoin itself is ""unconstrained"" relative to goldbugs who might say ""even Bitcoin r… https://t.co/1T2e6hVGHT"
+1090682009947521024,2019-01-30 18:43:49,@arjunblj @0xstark @yassineARK I think the main place where you are off the mark is that ethereum community also ge… https://t.co/vDQ9eoNleQ
+1090442508465713152,2019-01-30 02:52:08,"RT @0xProject: 0x Core Team members @abandeali1, @HyszSkies, and @recmo met with several other Ethereum devs at the Eth 1.x gathering to di…"
+1090427851327717376,2019-01-30 01:53:53,@0xstark @arjunblj @yassineARK Also can map to traditional politics. Do you know any bitcoin maximalists who are so… https://t.co/PPo4RWuvdK
+1090302369454116866,2019-01-29 17:35:16,RT @lrettig: Thought experiment: fast-forward five years and the Ethereum experiment has failed. Why did it fail? Extra points for providin…
+1090292563053932545,2019-01-29 16:56:18,@protolambda @ethereum @ethstatus @ChainSafeth @prylabs @icebearhww Still more complex than I would like! Looking f… https://t.co/GbFdZE1GPJ
+1090289568530616321,2019-01-29 16:44:24,"RT @protolambda: The Beacon Spec for Eth 2.0 is getting closer to completion everyday! 🚀
+I created a schematic to help everyone understand…"
+1090241507049656320,2019-01-29 13:33:25,"@virgilgr @malloc8 If the only ETH node in countries A+B is in disputed territory, how do you decide if to make a T… https://t.co/GsuHdHWyVV"
+1089593410166476800,2019-01-27 18:38:07,RT @econoar: Everyone is always obsessed with the future state of Ethereum but I actually think what it can do today is pretty damn cool to…
+1089509082015232000,2019-01-27 13:03:01,@RiskBTC @stevennerayoff @rogerkver @silviomicali @zooko @fluffypony @zcoinofficial @monero @grincouncil What is an… https://t.co/AK4G8CoC2j
+1089387539054526464,2019-01-27 05:00:03,@egfalken @stevennerayoff @rogerkver @silviomicali @zooko @fluffypony @zcoinofficial @monero @grincouncil There's a… https://t.co/1D6FuUqCOH
+1089387243196665856,2019-01-27 04:58:53,@egfalken @stevennerayoff @rogerkver @silviomicali @zooko @fluffypony @zcoinofficial @monero @grincouncil Harberger… https://t.co/9GcWhHs9Oz
+1089380251480731649,2019-01-27 04:31:06,@stevennerayoff @rogerkver @silviomicali @zooko @fluffypony @zcoinofficial @monero @grincouncil Because really we a… https://t.co/jiCTN3dDUk
+1089206636302880768,2019-01-26 17:01:13,@VladZamfir @NickSzabo4 One possible answer is: choose the side that does not alter blockchains for non technical r… https://t.co/hdzmqeLjNo
+1088666249830096896,2019-01-25 05:13:55,"@jeffehh Whatever you're building, support login via ethereum wallet! 😊😊😊"
+1088617996254203904,2019-01-25 02:02:10,@BitcoinViper @ethereum @ethereumJoseph Vyper is already an ethereum programming language.... https://t.co/wI1hFwIb0u
+1087564902569529346,2019-01-22 04:17:33,@robinhanson @Noahpinion Gaak the link keeps being wonky. Here's the content copy/pasted onto a hackmd https://t.co/xqD8fXdIUt
+1087330462547234816,2019-01-21 12:45:58,@mikejcasey @ethereum &gt; Another way to add protection to the system might be to somehow... so that clients retain u… https://t.co/4qhCx6Qmvv
+1086209158368481280,2019-01-18 10:30:18,"@snaidunl @glenweyl Countries, provinces, cities, etc are a *very* poor approximation for the sets of people that p… https://t.co/CJpGQbXCuf"
+1085707906106908672,2019-01-17 01:18:30,"@ProofofResearch Yeah Bo definitely tried hard to make the bitshares/eos and ethereum tribes work together, that was his thing."
+1085706099662016512,2019-01-17 01:11:20,"@ProofofResearch &gt; Also, you’re saying that no one at Fenbushi ran that investment by you?
+
+As I said, they invested in EOS."
+1085696461541597185,2019-01-17 00:33:02,"@ProofofResearch You might notice I'm no longer a GP, that was soon after the EOS thing..."
+1085693715803303936,2019-01-17 00:22:07,@ProofofResearch Oh I also came up with their name 🤣
+1085693104953253888,2019-01-17 00:19:42,"@ProofofResearch Out of the projects I remember introducing (see above), only Augur was a coin, and my status as an… https://t.co/u5d8KZS7NT"
+1085691012993900544,2019-01-17 00:11:23,@ProofofResearch * Put money into ethereum projects via grants
+1085690639382007808,2019-01-17 00:09:54,"@ProofofResearch Things they did for the Ethereum ecosystem:
+
+* Rescue the foundation back in 2015 by buying $500k… https://t.co/sfDO7sh9No"
+1085690320480755712,2019-01-17 00:08:38,"@ProofofResearch * Speak at their conferences every year
+* Gave introductions to a few ethereum projects to Fenbush… https://t.co/Oz5Nv4qvch"
+1085688216580063232,2019-01-17 00:00:16,"@devilninja777 @ProofofResearch It's &lt;$100m these days 😄
+
+Though to be fair I think I was the same way when ETH was at &lt;$10."
+1085687168213778432,2019-01-16 23:56:06,@ProofofResearch Working with Fenbushi was an attempt to support the ethereum and crypto ecosystem. Along with genu… https://t.co/ldnOiOS3zg
+1085666524981977088,2019-01-16 22:34:04,@ProofofResearch @shill_tyson &gt;  how much $ETH he’s liquidated down for himself personally.… https://t.co/WhUi2sYKig
+1085665539056259073,2019-01-16 22:30:09,"@ProofofResearch @escottkey1 &gt; He claims $ETH team didn’t sell off any Ethereum
+
+Huh? I never claimed this....."
+1085665399197159425,2019-01-16 22:29:36,@ProofofResearch Myself and the ethereum foundation both sold some of our eth over the last few years.
+1085534323183210496,2019-01-16 13:48:45,@JamesCPoole @_prestwich I meant with respect to the daily grind of ethereum 2.0 spec development and implementatio… https://t.co/Ia6CUYP8MM
+1085472236578824192,2019-01-16 09:42:02,RT @Linktimetech: Thanks Paul for letting us know how strong the Ethereum community is! EDCON rocks. ❤️ See you in Sydney ❤️ @ethereum #eth…
+1085375523021352960,2019-01-16 03:17:44,"Great work from @_prestwich on explaining the ETH 2.0 roadmap!
+
+Always good to see engagement from outsiders; even… https://t.co/Mdh2KNeyRU"
+1084971897119563785,2019-01-15 00:33:52,@0xstark @VladZamfir @i_woodford Well Vlad *has* quit Ethereum over 2 years ago. So did I. We're now both heretics… https://t.co/FOXrQ1crdd
+1084955417027825664,2019-01-14 23:28:23,"@mdudas @luigidemeo @VladZamfir The first sentence is just false:
+
+&gt; Vlad Zamfir, one of Ethereum’s lead researcher… https://t.co/YqeLcv5l3Q"
+1084266802404708352,2019-01-13 01:52:05,"@jpthorbjornsen @ToneVays @BuyTheDipBaby @CharlieShrem Yeah, that was not a hard fork. The bitcoin client change to… https://t.co/89MxP5vkFp"
+1083794491704672256,2019-01-11 18:35:17,RT @ethereum: Ethereum's Constantinople network upgrade is less than a week away! Click this post for more info and what you need to do to…
+1083765147225604096,2019-01-11 16:38:41,@Noahpinion In mine they're all in on Bitcoin Private.
+1083450179347394560,2019-01-10 19:47:06,"IMO the Ethereum community should consider adopting @zcashco's terminology of calling things like Constantinople ""n… https://t.co/1FsqqmrY50"
+1082873048766631937,2019-01-09 05:33:48,@frankkane @bmargaca @eth_classic @ethereum @VladZamfir @AFDudley0 ETH's large size is why it has not yet been atta… https://t.co/xbV1PtNxUU
+1082866871706120192,2019-01-09 05:09:15,@frankkane @bmargaca @eth_classic @ethereum @VladZamfir @AFDudley0 The point is that eth's 20x higher hashpower is… https://t.co/uHrnNjQsQu
+1082848690824306688,2019-01-09 03:57:00,@bmargaca @eth_classic @ethereum @VladZamfir @AFDudley0 I don't think the 51% attack on ETC proves that ETH *engine… https://t.co/fLZOQ2zCRK
+1082400866508795904,2019-01-07 22:17:31,"RT @abelotti: First speakers have been announced for #EDCON2019 in Syd. Including @ethereum's @VitalikButerin and @sigp_io's @paulhauner.
+9…"
+1082359636999598082,2019-01-07 19:33:41,@Dinuxen @ethereum @ParityTech No. The grant will of course only cover development of Parity Bitcoin.
+1082357544872337408,2019-01-07 19:25:22,@lioryaffe @gluk64 FYI I had nothing to do with the name and did not know it would be called Ignis before it was published.
+1082078289508909058,2019-01-07 00:55:42,@CryptoN_T @SatoshiLite Congrats on following my path @SatoshiLite! Do you want to go further and convince Litecoin… https://t.co/gmTH8ZvfxK
+1082054495956291584,2019-01-06 23:21:10,"This is NOT technically Plasma (the usual name is ""rollup"") but it's still amazingly cool. I did not expect it to b… https://t.co/nVZMSMOR9I"
+1081985126555418624,2019-01-06 18:45:31,"@MatGroennebaek @glenweyl @oliverbeige @Nicolas_Colin @zhitzig @MattBruenig For example, the equilibrium price of r… https://t.co/S0FNjhyNMD"
+1080915329298194433,2019-01-03 19:54:31,Happy 10th birthday Bitcoin!
+1080483742387486720,2019-01-02 15:19:33,"@glenweyl @dbergstresser IMO pretty much everyone who speaks handwavily about ""centralization"" in politics should r… https://t.co/PcRfY6ScE7"
+1080275388536967169,2019-01-02 01:31:37,@lindsey_brink @glenweyl @NiskanenCenter I don't think Glen is advocating for replacing the status quo with Harberg… https://t.co/SIUn08PmeZ
+1079688727058939904,2018-12-31 10:40:26,"10. @davidgerard, @JorgeStolfi and friends at /r/buttcoin provide a much-needed service in shedding light on the cr… https://t.co/8E6rnstF2h"
+1079687862013124608,2018-12-31 10:37:00,"3. ... for instance, I definitely expect a higher percentage of the bitcoin community to remain actively engaged du… https://t.co/vNGGHqv1Lu"
+1079687683314761729,2018-12-31 10:36:17,"2. Bitcoin culture is definitely on the ""survive"" side of Slatestarcodex's thrive/survive dichotomy (… https://t.co/5TMJl5qsEz"
+1079687506696769536,2018-12-31 10:35:35,"1. Many in the Bitcoin community legitimately care about non-cryptocurrency ""freedom tech"" that I think is very imp… https://t.co/81C6IcToZw"
+1079678582987862019,2018-12-31 10:00:08,"@Onlyzineb Well I'm primarily focused on ethereum obviously. Right now syncing the full state takes ~2 days, and li… https://t.co/YDQnmzFjYG"
+1079600048772694016,2018-12-31 04:48:04,"This article makes me want to try my hand at writing a 50-tweet storm promoting tether maximalism...
+
+https://t.co/5ItZA6SVxQ"
+1079388275083685889,2018-12-30 14:46:33,@ummjackson @haydenzadams @sassal0x @ethhub_io &gt;Could the Ethereum 2.0 PoS beacon chain function independently with… https://t.co/WmEKOP5Dk8
+1079121510932062208,2018-12-29 21:06:31,"RT @raulitojordan: All ETH 2.0 block operations including casper slashings, attestation processing, deposit handling, and RANDAO done with…"
+1077713739942522882,2018-12-25 23:52:33,"@SatoshiVisions @TuurDemeester Yeah no, I have my disagreements with the bitcoin roadmap, PoW, etc but they're tryi… https://t.co/IfTdlGEAia"
+1077174509906640901,2018-12-24 12:09:50,"@VladZamfir Equivalently, public blockchain applications developed in [China, Russia, India, etc] are credibly not… https://t.co/i6KEs3C8PB"
+1076453723193380864,2018-12-22 12:25:41,RT @JonnyRhea: @ameensol @VitalikButerin @RyanSAdams @fredwilson @ethereumJoseph @ConsenSys @PegaSysEng #ETH2 R&amp;D team just open sourced ou…
+1076207702420930560,2018-12-21 20:08:05,@ChrisBlec @ethereumJoseph In many cases I don't think it's even because they're bitcoin maximalists or anti-crypto… https://t.co/r9y81DkP2S
+1076203775914901505,2018-12-21 19:52:29,RT @raiden_network: We are excited to announce that the alpha testing release “Red Eyes” of the Raiden Network is now live on the Ethereum…
+1076183128111280135,2018-12-21 18:30:26,"@ethereumJoseph Expand up to 1100 people, shrink to 600, keeping the 6/11ths that are most productive: OMG consensy… https://t.co/P4XxTMALvY"
+1075863872073015297,2018-12-20 21:21:50,"RT @ETHGlobal: thank you for an incredible year of #BUIDLing on ethereum 🙏
+
+we can't wait for even more in 2019! 🎉
+
+https://t.co/EVoqmF9MUt"
+1075344958696112128,2018-12-19 10:59:51,"@peter_szilagyi @GustavMarwin_ @badcryptobitch Small correction, eth 2.0 doesn't use STARKs directly, but the ecosy… https://t.co/v5d5bwH9av"
+1075344444101136384,2018-12-19 10:57:49,@peter_szilagyi @GustavMarwin_ @badcryptobitch Fair point. But eth 2.0 also depends on many kinds of obscure academ… https://t.co/xH4Y1GXVMs
+1075181710730506240,2018-12-19 00:11:10,"@preston_vanloon @ameensol @RyanSAdams @fredwilson @ethereumJoseph @ConsenSys @prylabs Just sent 1000 eth. Yolo.
+
+https://t.co/s1q8K5Wlhs"
+1075173660623822853,2018-12-18 23:39:11,"@AlexSkidanov This stuff ain't just theoretical; CSW's attempted ""I'll mine a lot on BCH to get everyone else to ho… https://t.co/WnnHeew1p6"
+1073488765182566400,2018-12-14 08:04:00,"RT @glenweyl: I was interested to see @microversegame, the first game I've seen that uses the COST explicitly: https://t.co/HjO2RPv9gd.  #R…"
+1073418560364412929,2018-12-14 03:25:02,"@hasufl @Omise was part of the Ethereum community since 2015, when they donated $100k to Devgrants: https://t.co/bauSj0UQhf"
+1073035213066792960,2018-12-13 02:01:45,"@whalepool In a sea of coins based on elliptic curve cryptography, how does Bitcoin even plan to stick out?"
+1072316755006160897,2018-12-11 02:26:51,RT @virgilgr: Lovely to see more mainstream press on the insurance implications in ethereum. @etherisc https://t.co/yJntadzEVU
+1072289782301044736,2018-12-11 00:39:40,"@AnselLindner Sure, they can build on ethereum. What's the problem?"
+1072173433495019520,2018-12-10 16:57:21,@IAmNickDodson @oliverbeige Use Ethereum for faster confirmations but also for simpler log querying (light clients… https://t.co/cxl1UpEwFV
+1072165939368456192,2018-12-10 16:27:34,"@Cynicalbananman Validator rewards paid in ETH.
+
+An understated benefit of public blockchains is that you get to fr… https://t.co/DQ0XxYtYXW"
+1072010158895595525,2018-12-10 06:08:33,"RT @glenweyl: Feeling really bad for genuinely idealistic and good people who are being hit hard by the cryptocrash, especially those who r…"
+1071573501549531137,2018-12-09 01:13:26,"@mwiyas @Corpusmentis0 What do you think about @AgainstMalaria, @Give_Directly, etc?"
+1071563713302343682,2018-12-09 00:34:32,"@glenweyl @Steven_McKie Bitcoin PoW incentives are simpler, but accomplish less. For example, a coalition of size ~… https://t.co/KlxifhRS9r"
+1071181945021710337,2018-12-07 23:17:31,"You can now buy the right to put what you want on the /r/ethtrader banner using Harberger taxes.....
+
+https://t.co/s35QBGM4q6"
+1071178769275047936,2018-12-07 23:04:54,"RT @peter_szilagyi: #Ethereum Constantinople mainnet hard fork scheduled for block #7080000, estimated around the 16th of January, 2019!"
+1069592454003855361,2018-12-03 14:01:27,"@VladZamfir But V, what do you think of $ETH's chance of survival given the new revoltionary patented twisted tangl… https://t.co/JGp9cg9z3g"
+1069571778291400704,2018-12-03 12:39:18,"@BloodyCurious @KyleSamani @evan_van_ness &gt;$1M has been bet on Augur.
+
+&gt;1% of all ETH is in makerdao (honestly I th… https://t.co/Ac02oDgdB2"
+1069563320074739712,2018-12-03 12:05:41,"@BloodyCurious @KyleSamani In the last few months:
+
+* Augur launched
+* DAI survived extreme trial-by-fire unscathed… https://t.co/3lueJNvTC1"
+1069258780431519744,2018-12-02 15:55:33,@PolTorrent @CleanApp @SpankChain I think that had the attacker taken out ~1M ETH and put the other 10M into a refu… https://t.co/2Vzziowtr2
+1069191679691948032,2018-12-02 11:28:55,@justinsuntron @BitTorrent Heuristic #103: anyone who puts a dollar sign followed by a ticker symbol in their tweet… https://t.co/ShJ06VQQRV
+1069184462230040577,2018-12-02 11:00:14,"RT @eiaine: @EpsilonTheory cheaper credit is liberty-enhancing for the unbanked in developing countries, sure. i suspect most bitcoin maxim…"
+1069166848996974592,2018-12-02 09:50:15,"@backus @rsnous Exactly. Much lower switching costs than countries, but given the sheer number of users who don't r… https://t.co/6rs1PGplYv"
+1068843547208663040,2018-12-01 12:25:34,"@tokenative @VladZamfir @gakonst We know the amount of ETH staked, not the number of nodes. One node could correspo… https://t.co/XG7dlGNYVT"
+1068826879774339072,2018-12-01 11:19:20,"@VladZamfir @gakonst Serenity is a brand name for a specific protocol upgrade, not a technology :)
+
+When debating t… https://t.co/PNbXC1U4LU"
+1068822895550496774,2018-12-01 11:03:30,"@VladZamfir @gakonst Can I kindly suggest you come up with a different name for this than ""CBC Casper""?
+
+I think di… https://t.co/WHZTKevM0B"
+1068652717332094976,2018-11-30 23:47:17,@giacomozucco @VivienBTC @BlockGeekDima @peterktodd Oh I agree that if I promote scamcoins I'm a scammer! I was rep… https://t.co/WGVqT7dirm
+1068466030085840896,2018-11-30 11:25:27,"RT @bit_novosti: @UniBasel_en @VitalikButerin @ethereum Congrats, ""Doctor"" Vitalik! That would be world's first doctorate in Crypto Bulshit…"
+1068239332316606464,2018-11-29 20:24:38,@primalpoly @BridgetPhetasy You should name your son Djephri.
+1067574301187031041,2018-11-28 00:22:02,"@_Kevin_Pham You missed Zcash:
+
+https://t.co/xPTEmIeZ7q"
+1067471581386088451,2018-11-27 17:33:52,"@therevoltingx The exit game is social reputation, the legal system, etc etc :)
+
+The blockchain facilitates it by e… https://t.co/dZ3vSS8Uyh"
+1066661774848610304,2018-11-25 11:55:59,"RT @koeppelmann: Ok, here is what happen from my (definitely very incomplete) perspective:
+While there is a lot of focus on Ethereum 2.0, d…"
+1064578408875733000,2018-11-19 17:57:26,"Looking forward to being at ETH Singapore!
+
+Apparently the last chance to apply is today: https://t.co/xgFwNqUYLe"
+1064482939780632576,2018-11-19 11:38:04,@cryptodario It's also a line the bitcoin core trolls use to claim I'm some kind of evil profit-seeking villain alm… https://t.co/FPbXE8hzw3
+1062469521800421378,2018-11-13 22:17:28,@ArthurB @zooko We can do a proper futarchy on ethereum by doing conditional markets on ETH/DAI.
+1062160406557409281,2018-11-13 01:49:09,"@adrianbye @CopePosting @CobraBitcoin Cobra is capable of changing he's mind; he's done so on BCH, I hope he can co… https://t.co/0wcynrBIud"
+1062159708683988992,2018-11-13 01:46:23,@CrisprandCrypto @CopePosting @CobraBitcoin This whole quantum computing episode was before ethereum even existed 😆
+1061981538433277952,2018-11-12 13:58:24,"@the_coinshark @cz_binance @zilliqa @ethereum ""Singapore decided""? That phrasing is incredibly misleading, many peo… https://t.co/sFJQYc8WY2"
+1061332997259984896,2018-11-10 19:01:19,@jyashouafar @RyanSAdams One user != thousands of users making up 14% of all ETH
+1061081731195760641,2018-11-10 02:22:53,@RyanSAdams &gt; Except when required because of danger of imminent harm to the function of the EOS Network or to any… https://t.co/Ia4C50x09b
+1060354070857310209,2018-11-08 02:11:25,@decentrali @evan_van_ness Evan got no share of the ethereum premine.
+1060121523640565761,2018-11-07 10:47:21,@virgilgr I feel like we need someone to explicitly do a survey of applications being built on ethereum by/for peop… https://t.co/eve6ULHL53
+1059477749058936832,2018-11-05 16:09:14,RT @paulaberman_: @glenweyl @jsfaq @VitalikButerin @VladZamfir @ethereum Another reference for formalizing singular identities on Ethereum…
+1059466153733566464,2018-11-05 15:23:09,@Cehhiro @glenweyl @ethereum @VladZamfir What's a recent example of an average user being scoffed away from ethereu… https://t.co/AoNgnROaf4
+1059457443036647424,2018-11-05 14:48:32,@EdanYago @glenweyl @ethereum @VladZamfir PoS is not a governance mechanism! It's not like coins are your congressm… https://t.co/hVPq0UOnvt
+1059454206510333952,2018-11-05 14:35:41,@glenweyl @ethereum Yay! I love taxing congestible things!
+1059452713145118720,2018-11-05 14:29:45,"@oliverbeige @glenweyl @ethereum Ooh!  Didn't know about that book, taking a look now :)"
+1059450343304712192,2018-11-05 14:20:20,@glenweyl @ethereum Our ideologies need to take these complexities into account. The ability to think game-theoreti… https://t.co/kv7gGmbHnS
+1059449756123062273,2018-11-05 14:18:00,"@glenweyl @ethereum Thomas Schelling's ""Strategy of Conflict"" is underrated imo in describing the complexities of m… https://t.co/Zev3XZQh0X"
+1059449191804665856,2018-11-05 14:15:45,"@glenweyl @ethereum Saving us from ""returning to the 1930s"" is definitely something I care about!
+
+I also think the… https://t.co/kdRl8o6DM6"
+1059445546371432451,2018-11-05 14:01:16,"@glenweyl @ethereum @VladZamfir Agree!
+
+Though I think it's *governance*, and not *consensus*, that is more importa… https://t.co/paG5cZbV3c"
+1059442715795038208,2018-11-05 13:50:01,"@glenweyl @ethereum @VladZamfir To be fair, the only private property that's formalized by ethereum itself is ETH;… https://t.co/h5Qx5LTS0p"
+1059442198402551814,2018-11-05 13:47:58,"@glenweyl @ethereum @VladZamfir Also there is real technical work being done on ""formalizing people"" better. Aside… https://t.co/09NFenRlB5"
+1059441735410085888,2018-11-05 13:46:07,@glenweyl @ethereum I would argue that formalizing people *badly* can potentially lead to worse consequences than j… https://t.co/Lq8E8BUFiv
+1059393243916521472,2018-11-05 10:33:26,@cyrusinc @glenweyl @ethereum This is a big part of why collusion-resistant voting mechanisms (eg. using multi-part… https://t.co/VVz8MBpdf7
+1059392922536329222,2018-11-05 10:32:09,RT @glenweyl: Thanks to @ethereum for the chance to give the final keynote today and to everyone for your enthusiasm.  Looking forward to b…
+1058371998995361792,2018-11-02 14:55:22,"RT @deadalnix: Devcon has people from eth, zcoin, zcash, eff, internet archive, whole earth catalog, and so many more.
+
+This industry is sm…"
+1058256690313756672,2018-11-02 07:17:11,"@ToneVays @DanLarimer Actually, the subheadline is fine.
+
+&gt; At Ethereum’s annual developer conference, its founder… https://t.co/Fw9mWe4W1U"
+1057951325021859841,2018-11-01 11:03:46,@tpacchia @Ripple @ethereumJoseph @Nouriel Umm.... I did. Listen to my devcon presentation.
+1057672732060643328,2018-10-31 16:36:44,RT @ethereumJoseph: The @metamask_io mobile app was just announced at #Devcon4! Everyone's favorite #Ethereum browser extension is coming t…
+1057584989951401984,2018-10-31 10:48:05,RT @technocrypto: Great point from #ethereum foundation's @mi_ayako here at #DevCon on maintaining Ethereum's culture https://t.co/WtWejdDV…
+1057584370532470785,2018-10-31 10:45:37,RT @bmann: Super important to get off “Ethereum island” — great that #DevCon4 has invited many long term thinkers &amp; creators from the Inter…
+1057584141737385985,2018-10-31 10:44:43,RT @zooko: Trying to make a list of all the Zcash-related presentations at DevCon4. Let's see… there are a lot of them! …
+1057584081469390848,2018-10-31 10:44:28,RT @technocrypto: Ready to get your layer 2 on at #Ethereum #DevCon ? Check it this excellent talk by @0xstark on the main stage after lunc…
+1057291010336833536,2018-10-30 15:19:55,RT @niccary: Exploring #Ethereum Just Got Easier!! The data team at https://t.co/XIkFQP3uZv is proud to offer more https://t.co/98lCSQBj1I…
+1057250691872407552,2018-10-30 12:39:42,RT @zooko: The new Zcash implementation announced by Parity and The Zcash Foundation (not The Zcash Company) today is the single most impor…
+1056809095003598848,2018-10-29 07:24:57,RT @zooko: omg sapling is working 😍
+1055572309585678336,2018-10-25 21:30:24,"@AdamStudenik @rcarback @ercwl @elixxir_io Wait, Tron has those mechanics in it too?
+
+I guess I'm not surprised..."
+1055551524317921282,2018-10-25 20:07:49,@iolebedev Why do you want to put the entire block header into the ethereum chain? This seems completely unnecessar… https://t.co/ex6QEBgtl2
+1055550147927654401,2018-10-25 20:02:21,"@TomPaineToday @Noahpinion Ethereum Foundation uses crypto to pay people in many countries; very convenient, especi… https://t.co/RefYgrrWLS"
+1055542536931020801,2018-10-25 19:32:06,"@iolebedev And one plasma block per ethereum block is totally unnecessary; one per minute is fine, or even less. Yo… https://t.co/OHo9ls79cA"
+1055542119618748417,2018-10-25 19:30:26,@iolebedev Also how is ~20 blocks/min even possible? Ethereum's own block rate is 4 blocks/min.
+1054942880261906433,2018-10-24 03:49:17,@crypto_monopoly @cryptorae I'm not walking any line. I'm a supporter of both DAI-style cryptoeconomic stablecoins… https://t.co/ob6LT2dQyl
+1054770845799845889,2018-10-23 16:25:40,@viaj3ro @real_vijay @ofnumbers @AaronvanW I spent many months seeking out bitcoin accepting stores and restaurants… https://t.co/Sp60G6z3PA
+1054742823646515200,2018-10-23 14:34:19,"@real_vijay @ofnumbers @AaronvanW The things that bumped up the price were ""Wordpress accepts Bitcoin!!!"" announcem… https://t.co/NfNhne2XWY"
+1053739340701093889,2018-10-20 20:06:51,@matt_wutrudoing @francispouliot_ @jimmysong And I don't think I've actually advocated *indefinitely stopping* using Bitcoin :)
+1053397971553927168,2018-10-19 21:30:22,"RT @kelvinfichter: Wrote this a while ago, finally publishing... a CryptoKitties-sacrifice-powered Brainfuck interpreter for Ethereum https…"
+1053338080587984896,2018-10-19 17:32:23,RT @econoar: 0/ I see a lot of discussion about the technicals of Ethereum’s Casper PoS but not much discussion around the economics. I’ve…
+1052236465495773184,2018-10-16 16:34:57,"@tylercowen Surprised the article didn't mention the usual ""big argument"" pro-sports, religion, etc: it redirects p… https://t.co/VwA5447TJ1"
+1051915292589342720,2018-10-15 19:18:44,@Nouriel The Bitcoin statistic of 0.88 was about *wealth* (see https://t.co/SjthlQhbOJ). So the comparison between… https://t.co/gcl1HLIeP1
+1051907392223551488,2018-10-15 18:47:20,@hrdwrknvrstps @ethereum Try https://t.co/uw2KFN80Ul
+1051838636487004160,2018-10-15 14:14:07,@shamir_k @CleanApp @cryptoecongames @Fake_Name1234 @boredGenius @VladZamfir @NickSzabo4 But Bitcoin UTXOs are also… https://t.co/5JXELDK8f2
+1051659115829825536,2018-10-15 02:20:46,"@benjaminion_xyz 's slides on ethereum 2.0:
+
+https://t.co/4fZqxULr5f"
+1051160932699770882,2018-10-13 17:21:10,"@CleanApp @cryptoecongames @Fake_Name1234 @boredGenius @VladZamfir @NickSzabo4 To be clear, at this point I quite r… https://t.co/Qcy8K5wpAH"
+1050960781255299072,2018-10-13 04:05:50,"@Nouriel Have you learned about BCH yet?
+
+The space is actually great fun once you get to know it."
+1050488384857096192,2018-10-11 20:48:42,"RT @lopp: /r/bitcoin is a BTC subreddit
+/r/btc is a BCH subreddit
+@bitcoin is a BCH twitter
+@btc is a BTC twitter
+https://t.co/NOxg1tE4xz i…"
+1050469860700897281,2018-10-11 19:35:06,@founderomar @devilninja777 @Nouriel ETH foundation is a separate entity. EF funds were never used to fund Consensys.
+1050393060243197953,2018-10-11 14:29:55,"HT @tylercowen ""The funnel of human experience""
+
+https://t.co/HdrQBQthcq"
+1050137622629122048,2018-10-10 21:34:54,"@bitcoinclegane @Nouriel I never had 900k ETH. When I had 0.9% of all ETH, the supply was ~75 million. When the pri… https://t.co/BAZcRzGZI8"
+1050127943064666112,2018-10-10 20:56:26,"@devilninja777 @Nouriel The Ethereum Foundation only ever owned ~3m, and now has ~660k; the rest was spent on development."
+1050125475253637120,2018-10-10 20:46:38,"@Nouriel I never personally held more than ~0.9% of all ETH, and my net worth never came close to $1b. Also, I'm pr… https://t.co/S59REnXBc6"
+1049717004716756992,2018-10-09 17:43:31,"@stewartbrand it's not that we *evolved* to yell at each other on twitter, it's that how we evolved *plus* large sc… https://t.co/j8HWkJN8f7"
+1049469485881511936,2018-10-09 01:19:58,"@udiWertheimer @MeniRosenfeld @ErikVoorhees And this is why blockchain scaling, proof of stake, etc are very import… https://t.co/4rMuJvrLj5"
+1049441533995315200,2018-10-08 23:28:54,@Nouriel eg. the recent issuance reduction from 3 ETH to 2 ETH was not proposed by me and was completed with basica… https://t.co/xd2LYXA0fL
+1049440807206313984,2018-10-08 23:26:00,@Nouriel I don't think that's a fair characterization; if you look more deeply at the actual processes of ethereum… https://t.co/gpbhz2tS3N
+1049165169434099717,2018-10-08 05:10:43,"@Cehhiro @interfluidity To a certain extent, there are lots of caveats and traps, life is complicated, etc etc etc."
+1048452172331933697,2018-10-06 05:57:31,"RT @paulhauner: We just published an update on our Eth 2.0 progress! Achievements this fortnight:
+
+- BLS aggregate signature verification
+-…"
+1046862422508748800,2018-10-01 20:40:25,"RT @DocLarus: This is awesome - The Emperor of Japan, Akihito, still publishes (and as first author). Notice he has only one name (cause he…"
+1046498793691262976,2018-09-30 20:35:30,@TimBeiko @technocrypto @zooko @nic__carter @hugohanoi @Truthcoin I imagine it's the case for a large number of ETH… https://t.co/rsZPdAEmhN
+1046497685967183872,2018-09-30 20:31:05,"@ofnumbers I believe LTC, Monero and Grin are the party-line approved alts. Not sure though; I know it changes from time to time."
+1046117423143944192,2018-09-29 19:20:04,"@CryptoKingofPop @Rewkang ""EOS is secure because the hegemon has a lot of power and can counterbalance the bad peop… https://t.co/oLUTqZLzlk"
+1045770126430212096,2018-09-28 20:20:02,@zooko @JaEsf I hope Zcash can learn from all of the fun stuff that's coming soon down the ethereum pipeline!
+1045310874922217473,2018-09-27 13:55:08,"RT @el33th4xor: Fully-collateralized stablecoins, like Tether but audited, are great additions to the space. https://t.co/EmwiJNluvs"
+1045280677862805504,2018-09-27 11:55:08,"RT @KevinSimler: @robinhanson A move I wish people made more often.
+
+C.f. this great blog post by @everytstudies https://t.co/ZtKGfIssKW ht…"
+1045280339726348288,2018-09-27 11:53:48,"RT @malloc8: Spankchain, Funfair, Loom: most of the market has no idea that Ethereum L2 scaling is already up and running. 🤯"
+1045278425932595202,2018-09-27 11:46:11,@jonrussell These people seem to believe that cash specifically being usable everywhere is important to protect RMB's legal tender status.
+1045274791647870976,2018-09-27 11:31:45,"Approx arguments:
+
+* Protecting RMB's ability to smoothly circulate necessary to protect legal tender status
+* Prot… https://t.co/g6NKjnkgZ3"
+1044396863452008449,2018-09-25 01:23:10,My attempt at this weird compsci problem on /r/iota: https://t.co/WpCKYIhuZV https://t.co/PoGZdy4UGm
+1044311257430585345,2018-09-24 19:43:00,"@the_cryptoeye AFAIK we've been ""using Zcash technology"" since October 2017....."
+1044177025211215873,2018-09-24 10:49:37,"Rocket Pool continues humming along implementing and making tests for ethereum stake pools:
+
+https://t.co/NGfJQ6TfFb"
+1044023322818859009,2018-09-24 00:38:51,"@skwp @SarahJamieLewis People do decide. But defaults exist, norms exist, multiple equilibria involving network effects exist, etc etc."
+1044010846333149184,2018-09-23 23:49:17,@SarahJamieLewis Heterogeneity arguably saved the Ethereum blockchain back during the 2016 DoS wars (… https://t.co/s6ZWR3bfxI
+1043837231163740160,2018-09-23 12:19:24,@blockchaincent I have nothing against *bitcoin enthusiasts*. Never did; see first paragraph of… https://t.co/WR1erpu6eL
+1043479547038126080,2018-09-22 12:38:05,@adrian_brink @5chdn Last week in Singapore I saw an ethereum certification service (forgot the name unfortunately)… https://t.co/6IlVKVXTHi
+1041867634222936064,2018-09-18 01:52:55,"Lighthouse: an open-source Ethereum 2.0 client, written in Rust
+
+https://t.co/qA4wQuHuRh"
+1039664201919164417,2018-09-11 23:57:16,@matthewde_silva @joonian Lack of use cases: that applies to bitcoin too IMO. Consumer payments (the original visio… https://t.co/Pb3yecANLO
+1039547330934915073,2018-09-11 16:12:52,@udiWertheimer @vasilipoupkine1 @joonian @matthewde_silva I remember that. BCH was also used as a payment method 😆… https://t.co/WOyxJOzfAL
+1039544589286178816,2018-09-11 16:01:58,"@udiWertheimer @joonian @matthewde_silva Also, this hasn't yet addressed the fact that ETH is the cheapest-to-use M… https://t.co/mfJki7IEAc"
+1039541581399740417,2018-09-11 15:50:01,"@HelpBinance @joonian @matthewde_silva Umm.... if ""there has been no movement from ETH"" what is this?
+
+https://t.co/GTcCzfr9ja"
+1039540811610738688,2018-09-11 15:46:57,"RT @VitalikButerin: @joonian @matthewde_silva So I realized that the argument that ""there's no value for ETH in ethereum as of today"" is ev…"
+1039539176599773184,2018-09-11 15:40:28,"@joonian @matthewde_silva Also, ETH is the only medium of exchange on ethereum where the gas cost of transactions i… https://t.co/0YTiPuA1hP"
+1039536756289204228,2018-09-11 15:30:51,"@joonian @matthewde_silva The reason is that as of today, abstraction is not even implemented in ethereum. There ar… https://t.co/rK2AOmAKBh"
+1039534193263296512,2018-09-11 15:20:39,"@joonian @matthewde_silva So I realized that the argument that ""there's no value for ETH in ethereum as of today"" i… https://t.co/EaBxhKQhhi"
+1037940716016558080,2018-09-07 05:48:45,"Ethereum 2.0: Who's building it?
+
+https://t.co/GTcCzfr9ja"
+1034163809408217088,2018-08-27 19:40:40,"@decentrali @KyleSamani Also, Satoshi's choice of forum for releasing the information of bitcoin's existence was it… https://t.co/nND9GCXqIV"
+1033081849394995200,2018-08-24 20:01:21,"@leo_tdg I mean both kinds of debates :)
+
+There's definitely some that are fairly quantifiable, eg. doing with tax rates, etc."
+1032319557095043072,2018-08-22 17:32:16,"RT @pipermerriam: Thanks to @ethstatus @AugurProject and @VitalikButerin you can now install Vyper without that ugly ""eth-"" prefix.
+
+https:…"
+1032270154498015233,2018-08-22 14:15:58,"@SteinLudvigsen @GAndrewStone Basically, the &gt; 32 MB level is the level where bitcoin small blocker arguments actua… https://t.co/5LvZEoGoC7"
+1032075153788817408,2018-08-22 01:21:06,"The BCH community should NOT compromise with Craig Wright to ""avoid a split"" and should embrace it as an opportunit… https://t.co/8en85pajGa"
+1031060364929118208,2018-08-19 06:08:41,RT @Linktimetech: Ethereum Industry Summit (ETHIS) this September in HongKong! Looking forward to seeing more communities get involved! Go…
+1030992170323304448,2018-08-19 01:37:42,@kaykurokawa @hugohanoi @StopAndDecrypt Most people's policy is to follow that chain that _is_ bitcoin (or ethereum… https://t.co/wTZXj31Dbl
+1030819179752972288,2018-08-18 14:10:18,@BrianSantoshi @tensorjack Dangerous for whom? The status quo is 100% deadly to every currently living being.
+1030565550521376768,2018-08-17 21:22:28,RT @ethereum: [Blog] Ethereum Foundation Grants Update - Wave 3 #ethereum #grants https://t.co/9bcFBkOxjX https://t.co/hLNv6UMPbB
+1030477916591685632,2018-08-17 15:34:15,"@bitcoinclegane No it won't: (link: https://t.co/sxx8pRiW3e) https://t.co/1fmw3ohQbV…
+
+The idea that an individual… https://t.co/iAL1fbOJti"
+1030143617967374337,2018-08-16 17:25:52,RT @paulhauner: Our Rust implementation of the Ethereum Beacon Chain spec is now 99% on-par with the reference impl. We're missing a few BL…
+1030098446995283968,2018-08-16 14:26:22,"@baobab1357 @WhalePanda I said ""get 5 dollars minus a small fee of Bitcoin, Bitcoin Cash, Zcash or ether""
+
+Watch fr… https://t.co/v1jwkYeWvj"
+1030097661657935873,2018-08-16 14:23:15,"@WhalePanda Ah, Zcash was also in the list :)"
+1030097329997508608,2018-08-16 14:21:56,"@WhalePanda I just listened through the presentation to get my actual words, they were ""get 5 dollars of Bitcoin, B… https://t.co/miG1qSAtOj"
+1029917670429220866,2018-08-16 02:28:02,RT @raulitojordan: Ethereum 2.0 Beacon Node+Client. Validators shuffled and assigned as proposers/attesters correctly after a crystallized…
+1029905391813939200,2018-08-16 01:39:14,"50. But, as is the Ethereum tradition, Vlad and I were both unaware that the word ""ambitious"" can be anything but a… https://t.co/ZjcKUHCA93"
+1029900794353483776,2018-08-16 01:20:58,2. Ethereum proof of stake research began in Jan 2014 with Slasher (https://t.co/ENIJsun6zn). Though the algorithm… https://t.co/oZROBHeq5g
+1029900695925706753,2018-08-16 01:20:35,"1. Today I am going to make a tweet storm explaining the history and state of Ethereum's Casper research, including… https://t.co/YXe0wHgEtD"
+1029388156251070464,2018-08-14 15:23:56,"@amibendavid Isn't that what bitcoin people implicitly advocate with the whole ""make small payments on the lightnin… https://t.co/Fh3K1BfaPg"
+1029369198848430082,2018-08-14 14:08:36,"RT @epheph: In the last 24 hours, ~15% of all CDPs (with 25+ DAI) have been liquidated. Total supply of DAI has dropped by ~3M (down to 47M…"
+1029138483485396992,2018-08-13 22:51:49,RT @JohnLilic: Things are changing. @ConsenSys showing supporting tweeting love for @parity &amp; vice versa. The price of $eth might be crashi…
+1029125458158211072,2018-08-13 22:00:04,"@IOHK_Charles Sorry, here's the link direct to my comment:
+
+https://t.co/1ktnwsK4nv"
+1028807182786035713,2018-08-13 00:55:21,@el33th4xor @Yakh19 @Bitcoin I think your main mistake was believing that the market cares about 25% differences in… https://t.co/eKWrD2jlHD
+1028370703010037761,2018-08-11 20:00:56,"@lkngtn In an online context, coercion is realtively difficult and bribes are relatively easy, so saying coercion r… https://t.co/2Fb6afRUEv"
+1028022694963343360,2018-08-10 20:58:04,"@JBTheCryptoKing @ANON_WeAreANON &gt; Do you comment on coins besides ETH? I was curious 🤔🤔
+
+I do sometimes. @zcashco is cool."
+1027728848165588992,2018-08-10 01:30:26,"@francispouliot_ @TokenHash @StopAndDecrypt @_Kevin_Pham @giacomozucco @adam3us Bitcoin Core the political tribe, n… https://t.co/YMng9Yzwfh"
+1027617213824479233,2018-08-09 18:06:50,"Poll for Bitcoin Core supporters. Suppose you had to flip a coin, and if it handed heads the bitcoin block size bec… https://t.co/2Hp1dVFCex"
+1026930489645391872,2018-08-07 20:38:02,"RT @IACRcrypto: Event of the summer for #cryptocurrency &amp; #blockchain! Meet &amp; mingle #crypto world leaders @Ethereum @VitalikButerin, $ZEC…"
+1026632656295931904,2018-08-07 00:54:33,"@MeniRosenfeld I personally find ""Bitcoin"" and ""Bitcoin Cash"" (and for that matter ""Ethereum"" and ""Ethereum Classic… https://t.co/IKJBoFDztP"
+1026632383607406592,2018-08-07 00:53:28,"@MeniRosenfeld I think them sharing the ""main part"" of their name is totally legit; it accurately reflects a common… https://t.co/1tzqTZHkoz"
+1026529491718291456,2018-08-06 18:04:37,"@MeniRosenfeld I disagree. ""Bitcoin Cash is Bitcoin"" is at this point unrealistic, but the name Bitcoin Cash by its… https://t.co/MrpkreSJ2G"
+1026158988235235328,2018-08-05 17:32:22,"RT @ESYudkowsky: Be the hero the world needs, not the hero the world wants, asks for, appreciates, understands, or recognizes as anything r…"
+1025720352733843456,2018-08-04 12:29:23,"RT @whalepool: ""Vitalik Buterin supports Coinbase’s final testing of Ethereum Classic [ETC]""
+
+https://t.co/3XV6YscT9s
+
+Excellent reporting…"
+1025525654408896512,2018-08-03 23:35:44,"RT @shahankhatch: @PegasysEng is happy to have announced on the Ethereum Core Devs call today that we are planning on releasing our Java, o…"
+1025367449863172096,2018-08-03 13:07:05,"RT @dannyryan: Ethereum Sharding Implementers Call #0
+https://t.co/VqwkOnXwpV
+
+Thank you everyone for coming! Excited to get together in an…"
+1025139634190331904,2018-08-02 22:01:49,"@NickWoolsey @el33th4xor ""Bitcoin consumes much less than [insert mainstream industry / application / use case] her… https://t.co/wN0r8QesjO"
+1024794651767787520,2018-08-01 23:10:59,"RT @CobraBitcoin: Happy independence day to my UASF friends, and my Bitcoin Cash friends. Very powerful day, let’s try to celebrate without…"
+1024789989597564928,2018-08-01 22:52:27,RT @sbetamc: @VitalikButerin These are the locations in Canada where you can buy BTC/ETH from @Bitaccess . Is this a good start? https://t.…
+1024423400830197761,2018-07-31 22:35:46,"Buterin's Law: any ""principle"", ""rule"" or ""law"" which the creator deliberately tries to name after themselves and p… https://t.co/w1wCQLXpTs"
+1023573596801708032,2018-07-29 14:18:57,@SalientQuips I'm thinking usage of ETH for dapps. The whole proposition becomes way more viable if anyone can buy… https://t.co/w0nUycdlCx
+1023571651865137152,2018-07-29 14:11:13,"I think there's too much emphasis on BTC/ETH/whatever ETFs, and not enough emphasis on making it easier for people… https://t.co/3rsJvSRJKD"
+1023564233433174016,2018-07-29 13:41:44,"@BrendanBlumer @seasideninja &gt; EOS, Ethereum, Bitcoin, and others all agree that blockchains must be controlled by… https://t.co/87y0HlRLU9"
+1022514449759068160,2018-07-26 16:10:16,@siddartha1492 @VladZamfir @glenweyl Informal social status works okay at this; if someone starts giving out status… https://t.co/8wE34nB7dq
+1022506386369011717,2018-07-26 15:38:14,"@Bitcoin Their arguments seem to criticize 2011-era PoS algorithms with ""nothing at stake"" flaws and say little abo… https://t.co/IVwCrHguVo"
+1022502876265046018,2018-07-26 15:24:17,"Hypothesis / shower thought: any system of ""formalized social status"" without sufficiently strong mechanisms for pr… https://t.co/aL8Z5SwCt0"

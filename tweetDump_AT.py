@@ -3,14 +3,27 @@
 import tweepy #https://github.com/tweepy/tweepy
 import csv
 import sys
-from getTwitterHandles import getTwitterHandles
+from getTwitterHandles_AT import getTwitterHandles
+import re
+
 
 # Twitter API credentials (expired, don't even try it)
-consumer_key = "EFhcDsaecX9e4FlQXyRDHrVaq"
-consumer_secret = "LpubHL3haoM2nyI5qOpk0BiC7KZxTSryMZSCvFPIuCfoHd5jCd"
-access_key = "307813351-7fl2kA1mvs0K1vF45X1Yaukp5qVzhX3cObb5KNVY"
-access_secret = "2f0zBbJRVAnnfN73dDpryPioUu9aOjZcPdA1Gukx02YAa"
+consumer_key = "7loZ1Jrzi8lEClQpUPZ03AWAJ"
+consumer_secret = "OupVSlv6IV3LoP4j7FRg4tiecD6He5XfT035NsDr93CfWkCfqx"
+access_key = "307813351-umbg9GQz59PwbMgz2yY7fiDAeUpTUBHcwc05JdU9"
+access_secret = "qDOTtQvPrJ2ZRZWP2AcKo9VI4TXpqCByOxhDoqzgl4SK7"
 
+
+# CSV reader for list of 100 cryptocurrencies
+def name_cleaning(filename):
+	crypto_final_names = []
+	with open(filename) as csvfile:
+		cryptonames = csv.reader(csvfile)
+		for row in cryptonames:
+			for word in row:
+				crypto_final_names.append('\\b' + word.lower() + '\\b')
+	crypto_regex = '|'.join(crypto_final_names)
+	return crypto_regex
 
 def get_all_tweets(screen_name):
 	print("Getting tweets from @" + str(screen_name))
@@ -49,8 +62,15 @@ def get_all_tweets(screen_name):
 
 		print ("...%s tweets downloaded so far" % (len(alltweets)))
 
+
+
 	#transform the tweepy tweets into a 2D array that will populate the csv
-	outtweets = [[tweet.id_str, tweet.created_at, tweet.text] for tweet in alltweets]
+	crypto_regex = re.compile(name_cleaning('Crypto_names.csv'))
+
+	outtweets = [[tweet.id_str, tweet.created_at, tweet.text] for tweet in alltweets
+		if re.search(crypto_regex, tweet.text.lower())]
+
+	test = []
 
 	#write the csv
 	with open('./Tweets/%s_tweets.csv' % screen_name, 'w') as f:
@@ -65,13 +85,16 @@ if __name__ == '__main__':
 	handles = getTwitterHandles()
 
 	startHere = 0
-	for i in range(len(handles)):
-		if handles[i]=="petertoddbtc":
-			handles[i]="peterktodd"
-			startHere = i
+	# for i in range(1):
+	# #for i in range(len(handles)):
+	# 	if handles[i]=="petertoddbtc":
+	# 		handles[i]="peterktodd"
+	# 		startHere = i
 
+	# for i in range(startHere, ):
 	for i in range(startHere, len(handles)):
 		get_all_tweets(str(handles[i]))
+	#get_all_tweets(str(handles[0]))
 
 #	for handle in handles:
 #		get_all_tweets(str(handle))

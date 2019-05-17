@@ -1,0 +1,582 @@
+id,created_at,text
+1127010624628609024,2019-05-11 00:40:46,I wrote an answer on Bitcoin stackexchange on the viability of deep blockchain rollbacks to counter thefts: https://t.co/BaM7s8XzoZ
+1126518589534523392,2019-05-09 16:05:36,RT @morcosa: Important point. Debating these ideas and the game theory of Bitcoin is valuable. But considering acting on it in the moment i…
+1126194984091148289,2019-05-08 18:39:42,"RT @BitMEXResearch: The Schnorr Signature &amp; Taproot Softfork Proposal
+
+We summarise the recent Bitcoin softfork upgrade proposal, which inc…"
+1126179049145954304,2019-05-08 17:36:23,"@TuurDemeester I guess that's a matter of perspective. I don't, unless you treat exchanges and their databases mana… https://t.co/0TJ6NMBkcr"
+1126172525229043712,2019-05-08 17:10:27,@bradmillscan @TuurDemeester This is not a bad thing. Using the Bitcoin's chain to secure unrelated tokens (especia… https://t.co/b7mihJwVfo
+1126169757877559296,2019-05-08 16:59:28,@bradmillscan @TuurDemeester W.r.t. its BTC-pegged token it is a sidechain (you can independently audit the peg). W… https://t.co/BsvEPG3WZL
+1126168018872983552,2019-05-08 16:52:33,"@TuurDemeester I think the technology in Liquid is awesome, but when you're talking about assets other than L-BTC,… https://t.co/2DTJmh3QEa"
+1126011820555128832,2019-05-08 06:31:52,@festina_lente_2 @Mario_Gibney Why would there be a Bitcoin Core update...?
+1126009710174359553,2019-05-08 06:23:29,"@Mario_Gibney As for Bitcoin operating as should when such fees are offered, I disagree; it would cause significant… https://t.co/TqTX5kzWya"
+1125818512327397376,2019-05-07 17:43:44,"RT @bitcoinoptech: Bitcoin Optech Newsletter #45 is here:
+
+- changes in the recently-released Bitcoin Core 0.18.0
+- briefly mentions two pr…"
+1123748031034212353,2019-05-02 00:36:23,"@Ethan_Heilman I feel a ""Pigeon-harvesting Dogs""-like joke should be inserted here about BTC being mined by marmots."
+1123305162859094016,2019-04-30 19:16:35,"RT @bitcoinoptech: Bitcoin Optech Newsletter #44 is here:
+
+- our regular section on bech32 sending support
+- selected questions and answers…"
+1121835639052181505,2019-04-26 17:57:13,"RT @murchandamus: The Bitcoin network's natural mode of operation is with a backlog.
+Last time we reached full blockspace utilization for a…"
+1121623970308952065,2019-04-26 03:56:07,RT @StackBitcoin: Proposal: Narrow topic of Bitcoin.Stackexchange to questions applicable to Bitcoin https://t.co/H9mxmeh1SK
+1121160995215273984,2019-04-24 21:16:26,RT @munificentbob: Nils Nilsson passed away today. There's a good chance you've never heard of him because he didn't stick his name on an a…
+1119774176942776323,2019-04-21 01:25:42,"RT @MadarsV: Call 1 = a_0 &lt; ... &lt; a_r = n an addition chain for n if each a_i term (i=1,..,r) is a sum of any two preceding terms in this s…"
+1109617717135368193,2019-03-24 00:47:34,"@Leishman This is the perfect illustration why bitcoin blocks contains the actual transaction data, and not just their hashes."
+1108763418423492608,2019-03-21 16:12:53,"RT @orionwl: there's a funding initiative by Square for Bitcoin Core devs, apparently?—strange to learn of this through Twitter—anyhow, if…"
+1108542978421714945,2019-03-21 01:36:56,"@FelixWeis @_jonasschnelli_ The exact number, taking all information from the Bitcoin and some forkcoin chains into… https://t.co/bgZzHeTXZ2"
+1108532902743031809,2019-03-21 00:56:54,"@ChristopherA Yes, that's what I mean in the next tweet. Taking that information into account exposes another 0.5 M BTC."
+1108265071145148417,2019-03-20 07:12:38,"@_jonasschnelli_ I patched Bitcoin Core to maintain a database of all hash preimages seen on chain, and then made g… https://t.co/72FTrNUpf8"
+1108207993349259264,2019-03-20 03:25:49,@StopAndDecrypt Neutrino is the name of a lightweight client implementation that relies on the BIP157 protocol. Usi… https://t.co/EpiccKalME
+1108097835365339136,2019-03-19 20:08:06,"For future reference, my answer is (c) 5M-10M BTC. See the explanation here: https://t.co/2dZ0RgCTlK"
+1108091924404027392,2019-03-19 19:44:36,8) But what I don't think helps anyone is preaching that PKH and lack of key reuse protect Bitcoin against a quantu… https://t.co/zOrcc5x0Bf
+1108085840150880257,2019-03-19 19:20:26,"2) This includes about 1.75 M BTC in P2PK/raw multisig outputs, and over 4M BTC due to known pubkeys and scripts, r… https://t.co/0dLn7Ab1az"
+1108038359924916224,2019-03-19 16:11:46,"RT @bitcoinoptech: Optech Newsletter #38 is here. As well as all the latest Bitcoin news you'd expect, we're running a new regular section…"
+1106765302702837760,2019-03-16 03:53:05,RT @SFBitcoinDevs: Video of @achow101 talking about Partially Signed Bitcoin Transactions (BIP174) @SFBitcoinDevs https://t.co/omOpO3vw8d
+1105563504105275392,2019-03-12 20:17:34,"RT @bitcoinoptech: Bitcoin Optech Newsletter #37 is here:
+
+- Asks for help testing Bitcoin Core 0.18.0 RC1
+- Describes recent discussions f…"
+1104178136818696193,2019-03-09 00:32:37,"@hrdng @udiWertheimer @adam3us @moneyball @hasufl Guys, u nit to stop this. There is no need to coin a new name."
+1103097450443624448,2019-03-06 00:58:21,"@slush_pool @Blockstream When I started mining bitcoin on @slush_pool in december 2010 (IIRC, the pool had found 2… https://t.co/TtF0ViOyvG"
+1102652157424132096,2019-03-04 19:28:55,@AlgebraFact You may be interested in the Bech32 address type that is in use for new-style Bitcoin transaction outp… https://t.co/UCym8aafbn
+1099402359057321985,2019-02-23 20:15:22,@remyers_ @pbarreto @benediktbuenz One way of doing so would be the IAS scheme from the Bellare-Neven '06 paper (Sc… https://t.co/OSM767Q17C
+1099031900025442304,2019-02-22 19:43:18,"Slides for my talk ""A short history of Schnorr for Bitcoin"" at CIW'19: https://t.co/yc1TzcO5y1
+
+Twitter transcript… https://t.co/4HurPNAmhd"
+1098652390432165890,2019-02-21 18:35:16,"2/ The first effect is that the observed ""length"" of the retarget window is only 2015 blocks. This means that the r… https://t.co/qHvEfNZcwE"
+1098288749098795008,2019-02-20 18:30:17,"Assuming the Bitcoin hashrate is perfectly constant, and all blocks have exact timestamps (corresponding to the tim… https://t.co/0lrzm0yDgc"
+1097876604288679937,2019-02-19 15:12:34,"RT @bitcoinoptech: Bitcoin Optech Newsletter #34 is here:
+
+- Discussion on BIP118 SIGHASH_NOINPUT_UNSAFE output tagging
+- Progress towards…"
+1095722008350842882,2019-02-13 16:30:58,RT @wikileaks: Craig S. Wright is a proven serial forger of documents claiming that he is the inventor of Bitcoin. He has been repeatedly c…
+1095456090605514752,2019-02-12 22:54:19,"@ubaldoArenas @LukeDashjr @derose @orionwl @aantonop Yes, if those 1 million BTC are truly inaccessible.
+
+https://t.co/xbMTkweylZ"
+1093058828323631105,2019-02-06 08:08:27,RT @AsILayHodling: Twitter's co-founder just accepted a #bitcoin payment that has been sent/received by 140 other users across 6 continents…
+1092891481436614656,2019-02-05 21:03:28,RT @n1ckler: My little sideproject nix-bitcoin allows to easily set up Bitcoin nodes with higher level protocols. Running the `nixops deplo…
+1092821662460825602,2019-02-05 16:26:02,"RT @bitcoinoptech: New Bitcoin Optech Newsletter out today.
+
+Summarizes some talks from the Stanford Blockchain Conference and includes an…"
+1091187620216922113,2019-02-01 04:12:56,"RT @danrobinson: Enjoying @pwuille’s talk on Miniscript, policy language that compiles to Bitcoin Script. I’d thought that Ivy was the most…"
+1090310774331854848,2019-01-29 18:08:40,"RT @bitcoinoptech: Bitcoin Optech Newsletter #31 is out.
+
+This week we summarize a post about the privacy-improving payjoin proposal and li…"
+1089999950706921472,2019-01-28 21:33:34,RT @jmcorgan: The most valuable thing about Bitcoin for me is that it is entirely built on the voluntary interactions of its participants.…
+1089263683534876674,2019-01-26 20:47:54,@mccoyspace @MediumSqueeze @Blockstream @TheBlueMatt @notgrubles There is no Bitcoin transaction involved here. It'… https://t.co/qzzOctNonp
+1088585473818210304,2019-01-24 23:52:56,"RT @BitcoinMagazine: Taproot would expand on Bitcoin’s smart contract flexibility, while offering more #privacy in doing so.
+#bitcoin #tapr…"
+1075271013795979264,2018-12-19 06:06:01,"RT @WhalePanda: Exactly 5 years ago the infamous ""I AM HODLING""-thread was posted on Bitcointalk. #HODL #Bitcoin
+https://t.co/Zn8RgjR2dB ht…"
+1073647695468756992,2018-12-14 18:35:32,"RT @kanzure: ""Schnorr and taproot (etc) upgrade"" https://t.co/0RDE2POUeO"
+1072020757729832962,2018-12-10 06:50:40,@NickSzabo4 The real BCH.
+1072020520470626306,2018-12-10 06:49:43,"Our own interest in writing this is mostly in the context of improvements to Bitcoin transaction relay, and not so… https://t.co/jaAFYGSuE8"
+1071244827570753536,2018-12-08 03:27:24,RT @MeshCollider: Very excited to serve as the newly appointed Wallet Maintainer for Bitcoin Core! Hopefully a bit more work off @orionwl's…
+1071157951564439554,2018-12-07 21:42:11,"RT @moneyball: ...""The “bitcoin” blockchain has a radically different set of characteristics than any other blockchain. And it has a partic…"
+1070384247167303680,2018-12-05 18:27:45,"RT @alexbosworth: Lightning is not:
+- Fixing Bitcoin. Bitcoin isn't broken.
+- Making BTC useful. BTC is already useful.
+- Stealing fees. Ev…"
+1070084395455852544,2018-12-04 22:36:15,RT @BitcoinMagazine: Here we go! Let's make Bitcoin fun again! #Bitcoin #BTC https://t.co/mqCgzkAYrx
+1070014100367798272,2018-12-04 17:56:56,"RT @bitcoinoptech: Bitcoin Optech Newsletter #24 is here.
+
+Describes a proposal to tweak Bitcoin Core’s relay policy for related transactio…"
+1067487906929889280,2018-11-27 18:38:44,"RT @bitcoinoptech: Bitcoin Optech newsletter #23 is here.
+
+Contains a reminder about potential feerate increases, summarizes suggested impr…"
+1064775200691019776,2018-11-20 06:59:25,RT @Fried_helm: Bitcoin/USD below 8. Bitcoin Sentiment remains bearish. :/
+1063624681163390976,2018-11-17 02:47:39,"@noblemaks For the first one:
+
+msg=0xcb5a06cf6c60779a21997685932cff40f2014cf22ddb931d0ccd88cf1a87a6a5
+r=0xa1ca34889… https://t.co/limNSKATvo"
+1062766115309252608,2018-11-14 17:56:01,RT @bitcoinoptech: Bitcoin Optech Newsletter #21 is here. This month's newsletter summarizes a few discussions on the Lightning-Dev mailing…
+1062245897336086528,2018-11-13 07:28:52,"RT @kanzure: ""As of block https://t.co/UNE6YazNqS the total expected amount of work in the Bitcoin blockchain is 2^90 double-sha256 operati…"
+1060272227801751552,2018-11-07 20:46:12,"@saltedlolly 1) Bitcoin at the protocol level has no such thing as addresses, so at best it can work on a per-coin… https://t.co/ZjizAkOvo2"
+1058187560944467973,2018-11-02 02:42:29,"@carl_dong @notgrubles @zndtoshi @LukeDashjr @TheBlueMatt No, 0.01000001 BTC."
+1058141886219612160,2018-11-01 23:40:59,"@zndtoshi @TheBlueMatt @LukeDashjr It's not.
+
+It's claiming 50 BTC in reward, and 0.01 BTC from fees."
+1055225136805105664,2018-10-24 22:30:52,RT @DaytradeJeffrey: At this point Bitcoin is less volatile than the stock markets
+1054104274135732224,2018-10-21 20:16:57,"RT @real_or_random: Don't get fooled by people implying that Bitcoin is associated with particular political views, a particular lifestyle…"
+1051639947327811585,2018-10-15 01:04:36,"@notgrubles @crypto_pirate_X @Blockstream Oh, I see; you mean more security and decentralization *compared to L-BTC… https://t.co/aNyWLIy2Hg"
+1051639390307373056,2018-10-15 01:02:23,"@ercwl @adam3us @PMillerCoin @Excellion However, as far as those non-BTC tokens on Liquid goes, it is indeed *just*… https://t.co/Rl3KGem0YO"
+1051589661561253889,2018-10-14 21:44:47,@ercwl @Excellion Of course; Liquid's security model for the L-BTC token depends on both BTC and the Liquid federat… https://t.co/Y2MAgALadA
+1049680431212154880,2018-10-09 15:18:11,@jmcorgan @WhalePanda Bose–Chaudhuri–Hocquenghem is the real BCH.
+1049099361391497216,2018-10-08 00:49:13,"RT @gregoryneven: I spent some very interesting days at Scaling Bitcoin. All talks are online, including mine on multi-signatures. https://…"
+1045385006799933440,2018-09-27 18:49:42,"@_drgo @LukeDashjr @lopp @TheBlueMatt @jimmysong @orionwl And yes, 100 BTC was lost due to pre-BIP30 duplicate coin… https://t.co/cEWWn3pGt0"
+1044329127094837248,2018-09-24 20:54:01,Friday I'll talk about recent ideas about improving Bitcoin's scripting language. https://t.co/5qVKXGPBFU
+1044302213470871552,2018-09-24 19:07:04,"RT @jfnewbery: I'm finally making a name for myself in Bitcoin!
+
+(also, way to miss the point entirely @iamjosephyoung and @woonomic) https…"
+1043304882642477056,2018-09-22 01:04:02,"@NekoNormalan @Omni_Layer That sounds completely unrelated, as the bug on Bitcoin Core wasn't even attempted to be… https://t.co/IF8ZKW7NQK"
+1043175632237019136,2018-09-21 16:30:26,@breathingdog It has nothing to do with wallets. The issue is that - if exploited - Bitcoin Core nodes version 0.15… https://t.co/gRbq7LoSTf
+1042163122348290048,2018-09-18 21:27:05,"RT @bitcoincoreorg: Bitcoin Core 0.16.3 was released: https://t.co/SsbsJsqSTo
+Upgrade recommended due to vulnerability fix"
+1037054748405317632,2018-09-04 19:08:14,RT @bitcoinoptech: Bitcoin Optech Newsletter #11 is out. This week's newsletter includes a reminder to help test the release candidate for…
+1031930069923422209,2018-08-21 15:44:35,"RT @bitcoinoptech: Bitcoin Optech Newsletter #9 is out!
+
+Including a request to help test the next version of Bitcoin Core, short descripti…"
+1031320277395881984,2018-08-19 23:21:29,"@TuurDemeester I would say ""the commonly used address format for Ethereum does not have checksums, while the Bitcoi… https://t.co/wAtO9VTslg"
+1031317814072639488,2018-08-19 23:11:42,@federicopaesano @TuurDemeester The Bitcoin protocol only has scripts. Addresses are shorthand notations for a cert… https://t.co/LxyKE2WSMf
+1031317573265018880,2018-08-19 23:10:45,"@udiWertheimer @TuurDemeester It seems pretty strange to include e-mail, https, ... in ""the bitcoin protocol"", desp… https://t.co/M6YmUgzTFs"
+1031316209453522944,2018-08-19 23:05:19,@TuurDemeester Bitcoin also doesn't have checksum for addresses at the protocol level. It doesn't even have addresses at all...
+1030515170710147077,2018-08-17 18:02:17,@oliviernovel @Xentagz @Cypherm0nk I assume you're a Bitcoin user. That must mean that at least sometimes you recei… https://t.co/0RitRbPL52
+1030465683086237697,2018-08-17 14:45:38,@vietlq @kallewoof @theinstagibbs gave the link: https://t.co/KhMElQd6W9
+1030143084120530944,2018-08-16 17:23:45,"@udiWertheimer Ah, now I see what the fuss is about. I was wondering if Bitcoin Silicon Valley was a TV show."
+1029871982995591170,2018-08-15 23:26:29,"@rperezmarco @AlgebraFact From this, it follows that you need a larger group when it's an integer group. So the rep… https://t.co/gGfQHRt7FO"
+1029743308849856512,2018-08-15 14:55:11,"@AlgebraFact Cool to see you tweet about these topics!
+
+A small comment: the proposal for Bitcoin is about Schnorr… https://t.co/KenBtNs5BK"
+1029733234018373633,2018-08-15 14:15:09,"RT @copumpkin: Is there a name for how people write a ton of tests for stupid-simple but easy-to-test code that’s unlikely to ever break, b…"
+1029423370364805120,2018-08-14 17:43:51,"RT @bitcoinoptech: Bitcoin Optech Newsletter #8 is out!
+
+Featuring news about the importance of responsible disclosure of bugs, a potential…"
+1028732160088240128,2018-08-12 19:57:14,@khannib @TuurDemeester I'm sure there are plenty of people who own BTC that don't have a UTXO they individually co… https://t.co/GVFIxQRgNy
+1027714812266995712,2018-08-10 00:34:39,@ItsLevalicious You can have pre-agreed r values. But you must make sure no other party can cause you to reuse ones… https://t.co/ILuuIKehiH
+1027714123293896704,2018-08-10 00:31:55,"RT @neha: Two posts: Cory, a Bitcoin developer, shares his experience disclosing a chain-split vulnerability in Bitcoin Cash in April, and…"
+1026863495931817985,2018-08-07 16:11:50,RT @willcole: The Bitcoin Ops newsletter is possibly the highest signal bitcoin resource I read. Highly recommend subscribing (it's free) t…
+1025827611476250624,2018-08-04 19:35:36,"RT @jfnewbery: Absolutely vile.
+
+Cobra's fetishization of violence is why I stopped contributing to bitcoin(dot)org. Very glad to see that…"
+1025801258072854530,2018-08-04 17:50:53,"RT @hrdng: Launch announcement for https://t.co/JzIHLdq3Bc, a community-maintained fork of Bitcoin(dot)org with advertisements removed and…"
+1023834282349883393,2018-07-30 07:34:49,"@mahesh_r_nair @lopp That's a possible interpretation. However, the first version of the Bitcoin software defined l… https://t.co/Lkenujb3gt"
+1023707795642769408,2018-07-29 23:12:12,"@nirvanadev @roasbeef @lopp The name ""address"" presumably even comes from the fact that they were originally IP add… https://t.co/Jutzc3RCKa"
+1023701190800957441,2018-07-29 22:45:57,"@bobfrom_twd @lopp From Bitcoin.
+
+The whitepaper explained the basic idea, but didn't go into all details of the de… https://t.co/77zOrBWk6u"
+1023697115594153984,2018-07-29 22:29:46,"RT @lopp: Yes, little known fact: Satoshi actually coded Bitcoin to have an infinitely inflationary money supply. Thankfully @pwuille caugh…"
+1023696230566658048,2018-07-29 22:26:15,"@davekBTC @JpintoPedro @lopp Yes and no. Of course the supply was designed to be limited, but before Bitcoin Core 0… https://t.co/pDn8MKzEB9"
+1023689454861479936,2018-07-29 21:59:19,"RT @lopp: Bitcoin whitepaper purists should take note that the following things are NOT described in the whitepaper:
+
+multisig
+mining pools…"
+1023688945186426880,2018-07-29 21:57:18,RT @bitcoincoreorg: Bitcoin Core 0.16.2 Released https://t.co/EfMhZ7GINx
+1022016080322211841,2018-07-25 07:09:56,"@ecurrencyhodler No, there's still x BTC going to an address, and then later that gets spent in an input. There's j… https://t.co/VODFqsdU0v"
+1020121438185971712,2018-07-20 01:41:18,"RT @NickSzabo4: @NeerajT4 Neither was Bitcoin, but a series of fortunate governance events (disappearance of Satoshi, slide into irrelevanc…"
+1020031495233159168,2018-07-19 19:43:54,"RT @morcosa: I'll bet you @ErikVoorhees. The ""bitcoin"" with highest USD price 1 yr from today won't be a HF from today's Bitcoin. Stakes 1…"
+1019616967630573568,2018-07-18 16:16:43,"RT @BGGoodell: Holy shit. ""He then posted a link to a giveaway where people can allegedly win free cyptocurrency, as a ""cool way to make am…"
+1018890052946935809,2018-07-16 16:08:13,RT @coindesk: Schnorr Is Looking Poised to Become Bitcoin's Biggest Change Since SegWit https://t.co/x3x1AJwpAr https://t.co/aMAlIW0LyL
+1018618766085648384,2018-07-15 22:10:13,"@TuurDemeester Wow, Bitcoin had an executive director?"
+1018205549559549952,2018-07-14 18:48:15,"RT @PHP_CEO: YOU TOO CAN HAVE PIPING HOT MICRO SERVICES SECURELY DELIVERED TO YOUR SMART PHONE 24 HOURS A DAY BY DISTRIBUTED CLOUD AI, SAFE…"
+1016568688869236737,2018-07-10 06:23:57,RT @SFBitcoinDevs: .@pwuille speaking about Taproot! Thanks to our sponsors @Blockstream  and @dg717sf for making this event possible :) ht…
+1015472445975695360,2018-07-07 05:47:52,"@RajarshiMaitra @jmcorgan And yes, Schnorr signatures can be added to Bitcoin with a softfork, but that's not in sc… https://t.co/UQvFFD5DEa"
+1015412229691228160,2018-07-07 01:48:35,"@rusty_twit Otherwise you'll need to rename it to ""Past technology directions for Bitcoin""..."
+1015354847422377984,2018-07-06 22:00:34,"RT @TuurDemeester: Greg Maxwell's comments from last year, during the height of the Bitcoin fork wars, already sound prophetic. https://t.c…"
+1014223090266411008,2018-07-03 19:03:22,"RT @orionwl: Really cool how so many of the #bobtc talks today were about improving privacy in bitcoin:
+https://t.co/O38toHHc33
+https://t.c…"
+1012365676638437376,2018-06-28 16:02:40,RT @hrdng: Isn't that backwards?  Before Bitcoin had users---and attackers---early participants fantasized about how it might work.  Those…
+1011832460647124992,2018-06-27 04:43:52,"RT @pwuille: @notgrubles @Excellion I don't think there is any good reason to assume that email was genuinely written by Bitcoin's creator,…"
+1011830437025443841,2018-06-27 04:35:49,@notgrubles @Excellion I don't think there is any good reason to assume that email was genuinely written by Bitcoin… https://t.co/KyPaRG7b5S
+1009628729973194752,2018-06-21 02:47:01,"RT @pwuille: happy 100000th block, #bitcoin !"
+1006434696010424320,2018-06-12 07:15:04,"RT @edent: I don't understand the blockchain hype.
+A startup has certified my artwork &amp; placed their verification on the bitcoin blockchain…"
+1005939400461545478,2018-06-10 22:26:57,"RT @pedrorechez: ""Scriptless ECDSA"" and other interesting constructions for scriptless contracts in Bitcoin and the Lightning Network are d…"
+1004043409693212672,2018-06-05 16:52:57,"RT @TFTC21: “If I thought mining decentralization wasn’t going to get any better than it is today, I would have stopped working on Bitcoin…"
+1003853147041755137,2018-06-05 04:16:55,"RT @TuurDemeester: Woz: ""only bitcoin is pure digital gold...and I totally buy into that"" https://t.co/IQuaJnXnWg https://t.co/JspZoq0M8r"
+1003690292845744128,2018-06-04 17:29:48,@spudowiar There is a pretty active discussion about it on the bitcoin-dev mailinglist right now.
+1002618847319371776,2018-06-01 18:32:15,@matejcik @spudowiar @karel_3d Well I don't see it as a new format... more an extension to how Bitcoin transactions… https://t.co/YUOYY2PFk3
+1002617598041714688,2018-06-01 18:27:17,@spudowiar @matejcik @karel_3d Okay! So if the hardware-specific software already needs to deal with Bitcoin transa… https://t.co/1ectUxiXjt
+1001501082659377152,2018-05-29 16:30:39,"RT @orionwl: #bitcoincore please help review/testing of ""Implement BIP 174 Partially Signed Bitcoin Transactions https://t.co/9QTdEOYK7s"" –…"
+1000807242461990912,2018-05-27 18:33:35,"RT @lopp: /r/bitcoin is a BTC subreddit
+/r/btc is a BCH subreddit
+@bitcoin is a BCH twitter
+@btc is a BTC twitter
+https://t.co/NOxg1tE4xz i…"
+998599637542961152,2018-05-21 16:21:21,"RT @BitMEXResearch: List of 42 Bitcoin fork tokens
+
+Although in 2018 Bitcoin may have somewhat moved on beyond this issue, in this sixth pi…"
+998321445146001408,2018-05-20 21:55:55,@nikkolasg1 @manudrijvers Well Schnorr signatures aren't compatible with Bitcoin either and need a script update. R… https://t.co/3dXgksFIri
+998193238778437632,2018-05-20 13:26:28,RT @MarcoFalke: https://t.co/27uvNrWr7x is an excellent resource to recap on the weekly Bitcoin Core IRC meetings. Currently written by @hr…
+998188851960004609,2018-05-20 13:09:02,RT @kallewoof: Average person will think about the meaning behind “BTC/LN” about as much as they today think about the meaning behind “TCP/…
+997171361628880896,2018-05-17 17:45:53,@spudowiar @murchandamus Bitcoin stackexchange uses a unique reusable proof of work scheme where old questions are… https://t.co/Xa9NNZzE8M
+996153966957355009,2018-05-14 22:23:08,@Ethan_Heilman @jeffrade Did you know that the days of the week w.r.t. months/days repeat every 28 years?
+996093607504437248,2018-05-14 18:23:17,"RT @jfnewbery: Hi @github! I love your service, but in the last couple of months I've seen this unicorn more times than I can count. It's r…"
+995658482916511744,2018-05-13 13:34:15,"RT @MeniRosenfeld: @dgenr818 @pwuille That makes about as much sense as ""Banks can kill BTC whenever they please. Just start offering USD-d…"
+992479303882321920,2018-05-04 19:01:20,RT @waxwing__: 1/ I just realised that so much about the BTC v ETH debate all comes from this root issue: the latter asserts flexibility as…
+992465467859132427,2018-05-04 18:06:21,"RT @TuurDemeester: Number of developers contributing to Bitcoin's open-source code is suddenly on the rise: ""at least 21 code submissions a…"
+992086294254661632,2018-05-03 16:59:39,"RT @murchandamus: Bitcoin SE has 185 questions about Lightning Network. Some are still looking for better answers, and we are still missing…"
+990403521282424832,2018-04-29 01:32:54,"RT @pierre_rochard: buidling a UI for looking at Bitcoin pull requests, with github's graphql api and flask-admin
+
+Public demo within the n…"
+989913309070614530,2018-04-27 17:04:59,"RT @alexbosworth: Even though BTC is the biggest, we’re actually the rebels. Nothing else out there even approximates a leaderless movement…"
+988104769049788416,2018-04-22 17:18:29,"RT @waxwing__: Slide 9 from https://t.co/AAQAuCpeYf : ""Bitcoin's consensus does not have accounts, it tracks transaction outputs - “Coins”;…"
+987802343226789888,2018-04-21 21:16:45,RT @waxwing__: Seems Poelstra wrote a really great comment^H^H essay on reddit today about the privacy issues in Bitcoin and the right way…
+986655757335543808,2018-04-18 17:20:38,"@Bitcoin_Lobby @mHaGqnOACyFm0h5 Yes, see https://t.co/nvqzwylkOa for a list of BIPs implemented in Bitcoin Core. BI… https://t.co/oCxj14JGVu"
+986297549123276800,2018-04-17 17:37:14,"RT @jfnewbery: My man skeeeeees, squashing Bitcoin Core concurrency bugs since 2018. https://t.co/CXs6a0cP9p"
+985345093845508096,2018-04-15 02:32:31,"RT @jfnewbery: If users give up that right and responsibility then Bitcoin as an experiment has failed.
+
+And if that happens, then Bitcoin…"
+985344717888958464,2018-04-15 02:31:02,"RT @jfnewbery: This isn't repeated often or loudly enough.
+
+Bitcoin is a social experiment, not a piece of software.
+
+Bitcoin is sometimes…"
+985255966047268865,2018-04-14 20:38:22,"RT @bcrypt: A lot of people ask ""why should I work in software development as opposed to math/physics/finance/etc.?"" One reason is that thi…"
+984155844265705472,2018-04-11 19:46:52,"RT @_jonasschnelli_: 5 years ago I created my first pull request for Bitcoin Core. Since then 447 of my commits got merged.
+
+Bitcoin Core i…"
+982965705044770816,2018-04-08 12:57:41,"RT @orionwl: The unit of value and the P2P network is called ""bitcoin"",  ""bitcoin core"" is an open source software project that provides a…"
+982955421173366784,2018-04-08 12:16:49,"RT @orionwl: @Beautyon_ @Bitcoin I'd personally rather have that they blocked it forever. No one speaks for ""bitcoin"", so having such an ac…"
+982413929870700545,2018-04-07 00:25:07,RT @TuurDemeester: This is why many Bitcoin holders are wary of hard-forks: it could create legal precedent by suggesting that developers a…
+982279260550266880,2018-04-06 15:30:00,@MitchBradley7 @TuurDemeester Bitcoin doesn't actually achieve consensus: there is no point in time at which you're… https://t.co/OjLsYZK0WI
+981924855963705344,2018-04-05 16:01:43,RT @pwuille: @brucefenton @MrHodl @fnietom @flix1 @adam3us I don't think anyone is arguing here that the status quo can't be improved upon.…
+981873721160986624,2018-04-05 12:38:32,@brucefenton @MrHodl @fnietom @flix1 @adam3us I don't think anyone is arguing here that the status quo can't be imp… https://t.co/Kt5fSmR4BV
+980605227190669320,2018-04-02 00:37:59,"RT @pwuille: @JeffFormile @rogerkver BIP42 has been implemented since Bitcoin Core 0.9.2, released in June 2014. See https://t.co/xla3j7Rfzc"
+980598317242552320,2018-04-02 00:10:32,"@JeffFormile @rogerkver BIP42 has been implemented since Bitcoin Core 0.9.2, released in June 2014. See https://t.co/xla3j7Rfzc"
+979249471006617601,2018-03-29 06:50:42,"RT @kallewoof: Part of this includes lack of leadership. A property which, so far, only bitcoin has."
+978817076549701638,2018-03-28 02:12:31,"RT @lopp: These relatively quiet periods are the best, in my opinion. Haters are happy because they think Bitcoin is dead / dying. Builders…"
+977707840889528320,2018-03-25 00:44:48,"RT @devilscompiler: Lightning Labs raised $2.5 million for critical #Bitcoin infrastructure. They have a working product now.
+
+#Filecoin ra…"
+976728066167791616,2018-03-22 07:51:32,"RT @BitMEXResearch: SegWit transaction capacity increase compared to Bitcoin Cash
+
+Since the launch of Bitcoin Cash in August 2017, around…"
+976560485481922560,2018-03-21 20:45:38,RT @benediktbuenz: @pwuille @real_or_random My favorite cryptoception protocol: A fair MPC for generating a bitcoin transactions using cryp…
+976507775978127360,2018-03-21 17:16:11,RT @jimpo_potamus: Breakdown of different types of Bitcoin clients https://t.co/YIjB7nPHKQ
+974313385842982912,2018-03-15 15:56:27,"RT @lightning: Big day for bitcoin, Lightning goes live on mainnet! ⚡ 
+
+Announcing the first Lightning beta release for the live bitcoin ne…"
+973988301118976000,2018-03-14 18:24:41,"RT @NickSzabo4: Bitcoin's smaller argument surface increases its social scalability: ""The more functions a currency has, the more things th…"
+971376227981414400,2018-03-07 13:25:14,"RT @goldbe: Three years later, Countermeasure 3 from our 2015 Bitcoin Eclipse attack paper is finally merged : @Ethan_Heilman @AlisonMke 
+h…"
+969172818297581568,2018-03-01 11:29:40,@cyrilthecypherp @ZeusZissou @rusty_twit @adam3us @peterktodd If the question is could Bitcoin surpass Monero's pri… https://t.co/uD0XjARB2S
+969167062642909184,2018-03-01 11:06:48,@cyrilthecypherp @ZeusZissou @rusty_twit @adam3us @peterktodd If you're talking about what technology Bitcoin can a… https://t.co/h7hUB9rk00
+968700689651240960,2018-02-28 04:13:36,"RT @CremeDeLaCrypto: Big shoutout to @kanzure for transcribing so many great Bitcoin presentations and discussions, invaluable to have thes…"
+968271307891773441,2018-02-26 23:47:24,"RT @TuurDemeester: If you want to know “why is does it take 20 minutes to mine the Bitcoin block with my transaction in it?”, you need to u…"
+968094486600527872,2018-02-26 12:04:46,RT @bitcoincoreorg: Bitcoin Core 0.16.0 Released https://t.co/slIfNyPIVZ
+966773894601461760,2018-02-22 20:37:12,"@mejoshuaphilips @ChristopherA @TuurDemeester ""Will Bitcoin able to have STARKs"" is as meaningless as asking if Bit… https://t.co/tHNdINmWcL"
+966359816162570240,2018-02-21 17:11:48,"RT @kallewoof: It seems that people go through phases when it comes to bitcoin. Phase 1: they fucking hate it. It's retarded, and it's wast…"
+964560394323820545,2018-02-16 18:01:33,RT @matthew_d_green: I think that (perhaps inadvertently) IOTA has landed in kind of a ‘sweet spot’ where their claims are so ridiculous th…
+960352372001202176,2018-02-05 03:20:22,RT @bramcohen: @paulkrugman But Bitcoin transfers continue to work just fine and will continue to do so in the future. The technology does…
+959221618026332160,2018-02-02 00:27:09,"RT @bascule: Hot crypto: zero-knowledge proofs, anonymous credentials, structured/searchable symmetric encryption, post-quantum cryptograph…"
+958779847899201536,2018-01-31 19:11:43,RT @kanzure: Transcript: Schnorr signatures for bitcoin (@pwuille) https://t.co/d7W0W9F7aa https://t.co/aijTG0at4w
+958425264861560832,2018-01-30 19:42:44,My talk on Schnorr signatures for Bitcoin at BPASE18 is online: https://t.co/w7MK4YQYXm (slides: https://t.co/xNV0hSgHn0)
+958375157436854273,2018-01-30 16:23:37,RT @SFBitcoinDevs: Bulletproofs implementation in Bitcoin ? Work being done in libsecp256k1! @benediktbuenz @pwuille https://t.co/0vbN9fptg8
+958051620243193857,2018-01-29 18:58:00,@JoelKatz @digitsu I don't understand this analogy. A chain which maintains the 50 BTC reward forever will be inval… https://t.co/OVmcDJfqun
+956946399228190720,2018-01-26 17:46:15,"@BGGoodell @Blockstream Typo in the slide, his name is Peter Dettman."
+956614120593276928,2018-01-25 19:45:54,"RT @BGGoodell: Great quote by C.A.R. Hoare: ""There are two ways of constructing a software design: One way is to make it so simple that the…"
+956555295387299841,2018-01-25 15:52:09,RT @jb55: I thought I had an decent grasp of Bitcoin until I saw this talk. https://t.co/mSGBydbGtI
+955928578331369472,2018-01-23 22:21:48,"@paddyucl @bascule @matthew_d_green Well, everyone who cares about the set of signers. In a Bitcoin transaction out… https://t.co/62RNNYiAup"
+955621720190144512,2018-01-23 02:02:27,RT @nntaleb: I just published “Bitcoin” https://t.co/O9a7VLowQ1
+955454886413389824,2018-01-22 14:59:31,"RT @TuurDemeester: Foreword of @nntaleb to the Bitcoin book of @saifedean: ""All central banks operate under the same model, making it a per…"
+954193376898772998,2018-01-19 03:26:43,"RT @kanzure: gmaxwell has left @Blockstream, wants more time to work on bitcoin development: https://t.co/4fnd8QDXkx"
+954004690223579137,2018-01-18 14:56:57,Our paper on Schnorr-based key and signature aggregation for Bitcoin is on eprint: https://t.co/ikQTBp12fl
+953865331990175745,2018-01-18 05:43:11,@rtzmrmn @kallewoof Bitcoin is defined by what full nodes people use: https://t.co/HRCRlQLZV7
+953860546633244672,2018-01-18 05:24:10,RT @kallewoof: PSA: Bitcoin Core is the name of the reference implementation of a full node for Bitcoin. It is a piece of software. Some wa…
+951560038136430592,2018-01-11 21:02:46,"RT @fluffypony: Meeting with @pwuille, my @Blockstream handler, so we can discuss how to properly centralise Monero via @Lightning Network.…"
+951038131385532418,2018-01-10 10:28:54,@Excellion @francispouliot_ BIP42 predicted a dispute over what to call 1 billion BTC. It was just off by 15 orders of magnitude.
+949638521349988352,2018-01-06 13:47:21,"@kallerosenbaum I think the name just evolved over time. Originally I wanted to call it ""Witness protected program""… https://t.co/9kw24o70qx"
+948508168925085697,2018-01-03 10:55:44,RT @kyletorpey: Great overview of what to expect in terms of #Bitcoin tech developments in 2018 from @AaronvanW https://t.co/PkBnM6EiVA
+948341786774245376,2018-01-02 23:54:35,RT @mir_btc: Happy #bitcoin genesis block https://t.co/4ZmXAA2vyv
+947879159501606912,2018-01-01 17:16:17,"RT @WayneVaughan: Bitcoin Sign Guy named most influential in 2017 by @coindesk. 
+
+It’s notable that only @pwuille is on both the 2016 and 2…"
+947540382849609728,2017-12-31 18:50:06,"RT @woonomic: Interestingly the top 3, BTC LTC XMR, are the organic projects without ICO or dev subsidies. https://t.co/KTB6t5ztGH"
+947397026307854341,2017-12-31 09:20:27,@kadhirvelavan @Xentagz @vwayservicemax @WhalePanda @blockchain No. This has permanently reduced the total number of BTC.
+947204897837060097,2017-12-30 20:37:00,@FiloSottile Did you find any? I believe repeated R values in Bitcoin signatures were exploited as early as 2013...… https://t.co/ifBd2bas29
+947099746639974400,2017-12-30 13:39:10,"@vwayservicemax @WhalePanda @blockchain The miner failed to claim the 12.5 BTC they were allowed to take, so no BTC… https://t.co/Qqp84fhAvl"
+947084193162584064,2017-12-30 12:37:22,@tcatm Have you to the Bitcoin assembly?
+946692407625740288,2017-12-29 10:40:33,"@francispouliot_ @LukeDashjr @kallewoof @wsheap Bitcoin Core doesn't really have a roadmap, people do. Things happe… https://t.co/P5zfBgB3aj"
+946689521147662336,2017-12-29 10:29:05,"@francispouliot_ @LukeDashjr @kallewoof @wsheap I don't consider Bitcoin ""done"", but I do consider Bitcoin Core a m… https://t.co/JHE5zitPP5"
+946462644600422401,2017-12-28 19:27:33,RT @skddc: This box at #34C3 has a button that sends Bitcoin micropayments over a Lightning Network. ⚡ https://t.co/NDP667Ztbd
+945944751773241344,2017-12-27 09:09:38,"@Beautyon_ And I agree it's a bogus argument. As I said, if PCQ is ever needed in Bitcoin, we'll easily find consen… https://t.co/l2SfJrJ0UM"
+945936376536666113,2017-12-27 08:36:21,@fluffypony @LachlanCraigie @Beautyon_ Another thing that may play a role is that Bitcoin makes some (from a crypto… https://t.co/qSi8fhFhYZ
+945379911631503366,2017-12-25 19:45:09,"RT @jmcorgan: @lopp The Bitcoin Core *project* has control over its own repo, but not over Bitcoin *users*. All the butthurt really just st…"
+944819715322667008,2017-12-24 06:39:08,RT @AlpacaSW: Bitcoin does not owe you anything just because you promoted it a few years ago.  Bitcoin does not owe you anything because yo…
+944703946890858496,2017-12-23 22:59:07,"RT @_jonasschnelli_: #Bitcoin fees to high? Unusable? Hate it?
+Me too!
+
+Could not download a CD in the early 90ies?
+Hated it too!
+
+You have…"
+944657054475653120,2017-12-23 19:52:47,RT @kanzure: Transcript: Greg Maxwell on advances in bitcoin block propagation https://t.co/AV5EYSRR5O
+944655893504970752,2017-12-23 19:48:10,RT @Beautyon_: All the people working in the deepest levels of Bitcoin are calm and re-assuring. Why do you think that is? It's interesting…
+943993778565652481,2017-12-21 23:57:10,RT @_jonasschnelli_: Larger Bitcoin companies are finally realising that they must also invest in the underlaying Bitcoin protocol / networ…
+943905622369513472,2017-12-21 18:06:51,"RT @lightning: Don't like what that other network has been saying about bitcoin?🤔
+
+Have no fear, we'll be on Bloomberg TV at 4:40pm ET toda…"
+943570348586385408,2017-12-20 19:54:36,"RT @danrobinson: My deep dive into Simplicity, an exciting potential replacement for Bitcoin Script (from @Blockstream's Russell O'Connor)…"
+943284303206772737,2017-12-20 00:57:57,@chrisguillebeau Bitcoin: mining our own business since 2009.
+943212606730289152,2017-12-19 20:13:04,"RT @NickSzabo4: ""Just because the Bitcoin blockchain and thus Bitcoin have been  technically safe and secure historically, this does not me…"
+943172142237024257,2017-12-19 17:32:16,"RT @orionwl: Some great open sw/hw projects that take #bitcoin donations (let me know if you have more):
+- Blender
+- FreeBSD
+- GnuPG
+- Hard…"
+943171628317384705,2017-12-19 17:30:14,"RT @ForkGenTech: Point-and-click easy, anyone can create their own Bitcoin fork at https://t.co/Ey8fOoD3iK
+Use coupon code ""rogerverified""…"
+942829090406481920,2017-12-18 18:49:06,"Happy block #500000, #bitcoin! What a ride it has been. https://t.co/x8Gg6RSNgo"
+940427673242804226,2017-12-12 03:46:44,RT @jfnewbery: @gavinandresen As is proper. Bitcoin Core is a process of engineers working together on an implementation of the Bitcoin pro…
+940206709770919936,2017-12-11 13:08:42,"RT @CoinSciences: Every bitcoin journalist ever, repeat after me:
+
+The energy used by proof-of-work blockchains doesn't grow per transactio…"
+939620397242228737,2017-12-09 22:18:54,"RT @cryptomanran: A boy asked his bitcoin-investing dad for 1 bitcoin for his birthday. 
+
+Dad: What? $15,554??? $14,354 is a lot of money!…"
+938470544030056448,2017-12-06 18:09:48,RT @lightning: Announcing the first-ever interoperable Lightning transactions using real bitcoin with @acinq_co @blockstream! We bought a S…
+938104665895350272,2017-12-05 17:55:56,"RT @waxwing__: @WyseNynja @rusty_twit @pwuille Bitcoin is SWIFT not Starbucks points. Doesn't work as a consumer payments system, and fees…"
+937071030375346176,2017-12-02 21:28:38,"RT @pierre_rochard: Never, ever, ever trust anyone who is dismissive of a Bitcoin user running their own full node. Ever. 
+It is the *clear…"
+936451563874263041,2017-12-01 04:27:05,"RT @rusty_twit: You may disagree with how #bitcoin was designed, but you should understand it.  Genuine apologies if this is discomforting…"
+936315487620816896,2017-11-30 19:26:22,RT @kyletorpey: 2017 Was The Year When Everyone (Finally) Learned #Bitcoin Isn't Controlled By Miners via @forbes https://t.co/mxIjaVKoSH
+936140434526560258,2017-11-30 07:50:46,"@spudowiar batch of hashes 1500-2000, and download those, etc. 10 minutes later block 12346 arrives, and peer B is… https://t.co/r0W1qikdCz"
+935658849654095872,2017-11-28 23:57:08,"RT @veorq: wow, someone just bought 0.2 BTC (~$2000) worth of JPC
+https://t.co/YpC1jj4AjC
+(didn't mean to scam people with this joke ICO!)…"
+935275305362587648,2017-11-27 22:33:04,RT @BitcoinMagazine: Scriptless Scripts: How Bitcoin Can Support Smart Contracts Without Smart Contracts https://t.co/QjNODBfriQ #bitcoin #…
+933171708105703424,2017-11-22 03:14:07,"RT @AaronvanW: Bitcoin nodes and wallets that were released before Bcash existed, before SegWit was first presented, or even before Bitcoin…"
+932304716863741952,2017-11-19 17:49:00,"RT @jfnewbery: Really @jgarzik? That's what you learned? How about these lessons:
+
+1. Changes to Bitcoin require consensus from the users a…"
+931980631214399488,2017-11-18 20:21:12,"RT @kyletorpey: Path Towards Better Privacy in Bitcoin Becomes Clearer, But Will Still Take Time https://t.co/ToglbrMIsB via @CoinJournal"
+931955335572500480,2017-11-18 18:40:41,"RT @jfnewbery: This is so important. Bitcoin Core is a process. We're lucky to have brilliant people involved in the process, but those peo…"
+930922374358118400,2017-11-15 22:16:04,"RT @TuurDemeester: Some clarifications on new ""Bulletproofs"" — Bitcoin privacy improvement of Confidential Transactions — by @pwuille. http…"
+930622697616187392,2017-11-15 02:25:15,"RT @nwoodfine: Believing bitcoin will survive no matter what engineering decisions are made, and make you rich - that looks a lot like fait…"
+929958799804284928,2017-11-13 06:27:10,"RT @kyletorpey: When people say, ""Bitcoin Core wouldn't implement this or that thing,"" they're actually saying, ""Bitcoin users couldn't com…"
+928322393008881664,2017-11-08 18:04:40,"RT @TheBlueMatt: Lets take Segwit2x's failure as a learning experience - Bitcoin's community is strong, and needs to broadly support *any*…"
+928075867456024577,2017-11-08 01:45:04,"RT @tdryja: Why the excitement for ""Digital Identity""?  Bitcoin's strength is we can pay / be paid and not care about people's names or ""id…"
+926964283946045440,2017-11-05 00:08:02,"RT @fluffypony: Oooooooh yisssssss...definitely hopefully going to be doing this to reduce Monero's rangeproofs. Amazing work!
+
+https://t.c…"
+926136450155929600,2017-11-02 17:18:31,"RT @slushcz: ""Do you accept Bitcoin?"" ""Of course, there's an address ...
+...I don't see your payment, did you paid by asian bitcoin or amer…"
+923129410034774016,2017-10-25 10:09:36,RT @murchandamus: 7/ Choosing a restrictive frame for Bitcoin's growth rewards ingeniuity and more efficient blockchain use. It'll jumpstar…
+923129392368439296,2017-10-25 10:09:32,RT @murchandamus: 5/ The clarified expectations will cause new investments to have better compatibility with the Bitcoin project.
+923129375402418176,2017-10-25 10:09:28,"RT @murchandamus: 3/ a large decrease in Bitcoin's utility from the perspective of institutional investors, and likely a narrower, smaller…"
+923129340270964736,2017-10-25 10:09:20,"RT @murchandamus: 1/ Some #no2x proponents may not realize yet: If #no2x succeeds, it will change Bitcoin. Some investments will migrate aw…"
+921720538736791552,2017-10-21 12:51:15,RT @TuurDemeester: What is a Bitcoin node? Explained by @pwuille. https://t.co/NqIOARApJo
+921491427032477699,2017-10-20 21:40:51,"RT @CobraBitcoin: @bhec39 @adam3us @hrdng “Core supporters”, I don’t support Core, I support Bitcoin. For now Core helps Bitcoin but this m…"
+921294744382332928,2017-10-20 08:39:18,"RT @murchandamus: @TuurDemeester @pwuille Thank you for the shoutout for Pieter's work on Bitcoin SE. Re: 101, our frequent questions are a…"
+920294999509659648,2017-10-17 14:26:40,RT @jfnewbery: Here's why I think you should apply for the @ChaincodeLabs Bitcoin Residency: https://t.co/cL6cSlOn08
+919906830247219201,2017-10-16 12:44:14,RT @ChaincodeLabs: Announcing Chaincode's 2018 Bitcoin residency program: https://t.co/iCgzoUiQZR
+919544248495730688,2017-10-15 12:43:27,RT @morcosa: @mikebelshe @bendavenport @lopp There are many thousands of people who would trade every one of their BTC to keep its incorrup…
+918383192612028416,2017-10-12 07:49:50,RT @Ferdinando1970: Worth reading again: blocksize &amp; decentralization by @AaronvanW @adam3us @NickSzabo4 @pwuille @petertoddbtc @jgarzik ht…
+917556002840440832,2017-10-10 01:02:53,RT @murchandamus: The Bitcoin StackExchange is graduating! We'll have moderator elections next week! https://t.co/b4sFejqPze
+916577652298747904,2017-10-07 08:15:16,RT @BitcoinMagazine: 2x or NO2X: Why Some Want to Hard Fork #Bitcoin — and Why Others Do Not https://t.co/M6ZS8JXbMw #blockchain #segwit2x…
+915989251635818496,2017-10-05 17:17:10,"RT @lopp: Many mistakenly believe Core controls Bitcoin dev. In reality, they'd get dumped for merging contentious changes. https://t.co/Ba…"
+912333842400153601,2017-09-25 15:11:53,"RT @oleganza: Safe, sane Bitcoin upgrade looks like this. Users upgrade wallets and adopt new transaction style w/o stop-the-world coordina…"
+911269093063278592,2017-09-22 16:40:57,"RT @Provoost: I synced the latest and two old Bitcoin Core releases up through 2013:
+v0.5: 3 days
+v0.8: 3 hours
+v0.15: 50 mins
+https://t.co…"
+908529481828016128,2017-09-15 03:14:42,RT @bitcoincoreorg: Bitcoin Core 0.15.0 has been released. Read all about it! https://t.co/zbHC41U5TB
+908386125282025474,2017-09-14 17:45:03,RT @lopp: Bitcoin Core 0.15 has been released. Thanks @orionwl! https://t.co/AdO6SUUDg1
+906257128431673344,2017-09-08 20:45:11,RT @lopp: Bitcoin Core 0.15 changed DB format for storing UTXOs. It's 700MB larger but over twice as fast. This is what on-chain scaling lo…
+903874261185511424,2017-09-02 06:56:31,RT @kanzure: Transcript: Greg Maxwell on Bitcoin Core v0.15 etc https://t.co/W2Md3OJ39m #bitcoin @bitcoincoreorg
+903870878332489728,2017-09-02 06:43:05,RT @SFBitcoinDevs: The video of Greg Maxwell's talk about Bitcoin Core 0.15 is now available https://t.co/z7qP124kr1
+901131813032148992,2017-08-25 17:19:01,"RT @petertoddbtc: Why isn't the the Bitcoin Core wallet's segwit support fully enabled by default already? Gregory Maxwell explains.
+
+tl;dr…"
+901130751357276160,2017-08-25 17:14:47,RT @oleganza: First block on the actual Bitcoin network &gt; 1Mb w/o breaking anyone's software. Thanks @pwuille. https://t.co/ct4AQ9eYYW
+900878626106650625,2017-08-25 00:32:56,RT @BitcoinMagazine: The Long Road to #SegWit: How #Bitcoin’s Biggest Protocol Upgrade Became Reality https://t.co/sTj5zNfqed #blockchain
+900564286145150977,2017-08-24 03:43:52,RT @AlyseKilleen: BTC's most significant protocol upgrade to date - #SegWit - has activated! Much gratitude to #Bitcoin Core Devs &amp; @pwuill…
+859124597781741568,2017-05-01 19:17:20,"@tomothyjones Nowhere in SegWit are multiple messages signed at once, and SegWit does not modify Bitcoin's multisig scheme."
+845357221303115776,2017-03-24 19:30:42,RT @morcosa: BTC today has a 1MB consensus rule. Please know if u wish to follow different consensus rules u should consider different soft…
+845100723268313088,2017-03-24 02:31:28,"RT @TheBlueMatt: My response to someone saying ""Core is paternalistic"" and gets to make decisions - Bitcoin only succeeds if no one/group ""…"
+844025572892131328,2017-03-21 03:19:12,RT @coinableS: Check out this cool javascript webapp by @pwuille demonstrating a new proposed address format. #bitcoin https://t.co/N2UK98X…
+819256365801578497,2017-01-11 18:55:13,"RT @kayseesee: bitcoin fixes several bugs detected by ASan, LSan and UBSan. 
+https://t.co/48FgnASKSi
+Thanks @pwuille ! Hope you will use th…"
+780537084486508545,2016-09-26 22:38:37,"RT @BitseedOrg: ""The full node security model is
+designed to minimize trust in other parties in the system."" - @pwuille #bitcoin https://t.…"
+769577796565868544,2016-08-27 16:50:19,RT @brucefenton: Advice to blockchain startups w/ $10mm+ funding: Hire an ace C++ dev with job description: learn Bitcoin Core &amp; help when…
+768117371420762113,2016-08-23 16:07:06,RT @bitcoincoreorg: Bitcoin Core 0.13.0 has been released https://t.co/vlanNOsbJN remember to verify the hashes of your downloads!
+768115313066074112,2016-08-23 15:58:56,RT @orionwl: Bitcoin Core version 0.13.0 was just released! See https://t.co/DgLLkOZtfb
+766065777875222528,2016-08-18 00:14:48,@BristolCrypto What is the name of the talk?
+766033166746415106,2016-08-17 22:05:13,RT @DarioTepoTec: Possibly last bitcoin meetup in #Zurich for @pwuille for a while... will he survive San Francisco traffic? https://t.co/j…
+764252536907837440,2016-08-13 00:09:38,RT @morcosa: Chaincode is excited to host @TheBlueMatt in Sep to train/hack with Bitcoin devs.  Looking for qualified applicants! https://t…
+761242475075731456,2016-08-04 16:48:43,RT @roasbeef: It seems Seigneur Voldemort has hit a home run in scalability+privacy n succinct full-chain verification in Bitcoin: https://…
+756194378775949313,2016-07-21 18:29:23,RT @EFF: Bitcoin company @blockstream commits to avoid patent trolling—we hope to see other developers follow its lead. https://t.co/UtZZG8…
+752792546577973248,2016-07-12 09:11:43,RT @lopp: Bitcoin unspent transaction output breakdown by value and total bytes. H/T @pwuille https://t.co/bRBbQZr3c2
+727751813752066048,2016-05-04 06:48:48,"RT @JuanLlanos: This election year, the #LightningNetwork team are on a mission @jcp @starkness #Consensus2016 #Bitcoin #blockchain https:/…"
+727604504934363137,2016-05-03 21:03:26,"RT @ASzepieniec: As a last-minute substitute for @nirenzang (get better soon!), I just gave a talk on bitcoin right before keynote speaker…"
+727603919950614528,2016-05-03 21:01:07,"RT @shariv67: The inventor of the gif's name is Jeff, but he pronounces it Geff."
+698544563804315648,2016-02-13 16:29:36,"RT @Werner: ""Gravitation Waves Explained"" - excellent explanation at @PHDcomics https://t.co/01gwY83k7s https://t.co/EbHiSSzuzp"
+693269724042493952,2016-01-30 03:09:17,"RT @XplodingUnicorn: “Top CEO’s use this trick to stay productive.”
+
+*clicks link*
+
+“They don’t click random links all day.”
+
+Damn."
+683104046039871490,2016-01-02 01:54:30,RT @TraceMayer: #Bitcoin Knowledge Podcast Ep. 185 - @TraceMayer 2015 recap of Bitcoin and blockchain. 2015 #Bitcoin MVP: @pwuille https://…
+682219894620995584,2015-12-30 15:21:12,"RT @AaronvanW: .@jgarzik Earlier this year you wrote that “Bitcoin is a settlement system, by design."" What changed? https://t.co/f2h2AuHEVK"
+678800890711564288,2015-12-21 04:55:18,Segregated witness as part of a plan to get us going again in #bitcoin: https://t.co/ljJe3hGcTv
+677503506006192129,2015-12-17 14:59:57,"RT @oleganza: Bitcoin is a much better store of wealth than gold, paintings and vacant homes, yet people argue about sacrificing it for ret…"
+676490752986365953,2015-12-14 19:55:38,"RT @roasbeef: Bitcoin's Script just officially learned how to tell absolute time (CLTV) on mainnet!!!
+
+https://t.co/vIAdIc5STs
+
+https://t.c…"
+676361801378959360,2015-12-14 11:23:14,"RT @TuurDemeester: Interesting piece by @AaronvanW on how a recent patch, #CheckLockTimeVerify, tangibly expands Bitcoin's potential: https…"
+673685238472572928,2015-12-07 02:07:31,RT @lopp: This is huge. Segregated Witness is shaping up to be a giant leap forward in the evolution of the Bitcoin protocol. #ScalingBitco…
+670598051573166080,2015-11-28 13:40:09,RT @petertoddbtc: @ioerror Remember how we discussed adding Tor-by-default to Bitcoin Core? It'll be in v0.12! https://t.co/dUzjtyCPRK http…
+670299099615387648,2015-11-27 17:52:13,RT @petertoddbtc: Opt-in Full-RBF just got merged into Bitcoin Core: https://t.co/Aj4Js35viD
+669522178749153281,2015-11-25 14:25:01,"RT @kaffeecoder: OH: „At our company, we came up with our own name for Not Invented Here syndrome.“"
+667488634375901184,2015-11-19 23:44:26,RT @BitcoinMagazine: How a #Bitcoin Backbone Benefits Small Miners: Matt Corrallo's Relay Network by @AaronvanW https://t.co/nJ0KmSIr8Q htt…
+666376361813131265,2015-11-16 22:04:39,"RT @_jonasschnelli_: Bitcoin 0.12 will included ECDSA validation over #libsecp256k1, this will really speed up syncing! PR just merged http…"
+664196808860680192,2015-11-10 21:43:54,RT @lopp: Hat tip to @pwuille for preventing this bug from forking Bitcoin! https://t.co/veTr8IIAyG
+657613391603867649,2015-10-23 17:43:45,"RT @petertoddbtc: CLTV merged! Will be in BTC-Core v0.10.4, v0.11.2, v0.12.0
+
+Closest guess for the height of the first nVersion=4 block ge…"
+657221394892267524,2015-10-22 15:46:05,"RT @jgarzik: Moving forward with mempool!
+PR 6722 merged into #bitcoin core https://t.co/IFobk7jcO1
+Now is a good time to test master."
+654575911434616832,2015-10-15 08:33:53,"RT @orionwl: #Bitcoin Core 0.11.1 released - closes critical vuln in UPnP library, upgrade ASAP http://t.co/qvD8ouLCyE  https://t.co/R4eUnq…"
+651448576208453632,2015-10-06 17:26:58,RT @timoncc: @ScalingBitcoin has been the best Bitcoin conference I have attended so far. Kudos to all the organizers! I'll go to Hong Kong…
+644127783417872384,2015-09-16 12:36:45,RT @adam3us: .@petertoddbtc @pwuille @NickSzabo4 Best article yet on what Bitcoin *is* &amp; why decentralisation is necessary http://t.co/3Sg5…
+640248947777368064,2015-09-05 19:43:39,"RT @ChristopherA: Imagine a cert that embeds its own validation &amp; revocation scripts, using a language like #Bitcoin transaction code. Inte…"
+626103662725754880,2015-07-28 18:55:20,RT @orionwl: Important #bitcoin security disclosure: consensus bug indirectly solved by BIP66 https://t.co/KTNDxmG80d
+620266075314364416,2015-07-12 16:18:50,Bitcoin Core 0.11 with block pruning released: https://t.co/iqWmMubQQ3
+613378144695943168,2015-06-23 16:08:40,"RT @TuurDemeester: Bittorrent's @BramCohen is against #Bitcoin hard fork, is reminded of Y2K scare, calls for trust in fee market: http://t…"
+613375741640749056,2015-06-23 15:59:07,RT @adam3us: .@blockstream Wants to makes Bitcoin more private with Confidential Transactions http://t.co/p7Zs5OxUqL -@kyletorpey
+613265584596340737,2015-06-23 08:41:23,"RT @orionwl: Decentralization &gt; Helping startups make $ *in the short term*, long term bitcoin is only useful w/ decentralization https://t…"
+613020330571993088,2015-06-22 16:26:50,RT @morcosa: Bitcoin’s Ironic Crisis — Medium - Bram Cohen's take on the block size debate.   https://t.co/QNiW6kN1ZZ
+612744284303982592,2015-06-21 22:09:56,"RT @lopp: So long, @sourceforge - the Bitcoin Development mailing list is now hosted by @linuxfoundation https://t.co/OUTH50Ivfq"
+612382466486181888,2015-06-20 22:12:12,"RT @orionwl: .@petertoddbtc Bitcoin doesn't care. If it's vulnerable to tactics like this to gain central control, it never worked in the f…"
+611515926370914304,2015-06-18 12:48:52,"RT @morcosa: Why ""forking"" Bitcoin is different than other FOSS.  Please read @pwuille and @orionwl's responses to @OctSkyward.  http://t.c…"
+611461642187096064,2015-06-18 09:13:10,RT @orionwl: Bitcoin Core 0.11.0 release candidate 2 (testing!) is available: http://t.co/Pvyx77WChz
+610811605107011585,2015-06-16 14:10:09,RT @lopp: Side-by-side comparison of fee estimation in Bitcoin Core 0.10 (left) vs master branch w/@morcosa's changes (right) http://t.co/r…
+610447858987323393,2015-06-15 14:04:45,RT @petertoddbtc: @edmundedgar @morcosa @pwuille The alternatives to Bitcoin already do 25k tx/second...
+610437278243143680,2015-06-15 13:22:43,"RT @morcosa: For ""BTC must scale or die"" thesis will never be too late, can scale later. Worst case: slow adoption.  A disastrous fork has …"
+609738823317200896,2015-06-13 15:07:18,"RT @petertoddbtc: ""Without [its fundamental properties], Bitcoin offers nothing that isn’t already offered."" #blocksize https://t.co/gsSmqL…"
+609365979940945921,2015-06-12 14:25:45,@jgarzik @petertoddbtc Let's discuss this on #bitcoin-dev?
+609165116366585857,2015-06-12 01:07:36,RT @petertoddbtc: Miners: You'll (very likely) need to upgrade your Bitcoin Core node soon to support #BIP66 http://t.co/u7ansH76Aq
+608310650541088768,2015-06-09 16:32:15,RT @sfbitcoindevs: Video of @Blockstream CTO Greg Maxwell’s SF #Bitcoin Devs talk: Bringing New Elements to Bitcoin with #Sidechains http:/…
+608287645437988864,2015-06-09 15:00:50,"RT @aantonop: Greg Maxwell, one of the most prolific innovators in bitcoin, builds on Adam Back’s work on privacy:
+
+https://t.co/X9UCgbT2mX"
+606166460956844033,2015-06-03 18:32:00,RT @Blockstream: Gmaxwell will be presenting at next week's @sfbitcoindevs meetup: Sidechains: Bringing New Elements to Bitcoin http://t.co…
+602245325294821377,2015-05-23 22:50:49,@TuurDemeester Redoing all of Bitcoin's mining work combined on a single 5870 GPU (most popular hw once) takes a billion years.
+597122188379029504,2015-05-09 19:33:18,"RT @jgarzik: Decentralized systems are purposefully inefficient. Otherwise, we would just host #Bitcoin in 3x redundant data centers and be…"
+595606819264954368,2015-05-05 15:11:46,RT @jgarzik: .@aantonop The problem discussed in the blog post is fundamental to #bitcoin and not solved by changing block size. http://t.c…
+594248761406312448,2015-05-01 21:15:19,RT @jerrybrito: So many serious and thoughtful ways to critique Bitcoin. It's *really* not perfect. Why do pundits go for all the dumb reas…
+592979456509267968,2015-04-28 09:11:34,"RT @orionwl: #Bitcoin Core 0.10.1 was released yesterday, with quite a few bug fixes and stability improvements, announcement: http://t.co/…"
+592650711348977665,2015-04-27 11:25:15,RT @n1ckler: Bitcoin Core 0.10.1 is out. Fixes security issues such as eclipse attacks and address fingerprinting: https://t.co/wlmHLTXPK3
+591527686117466113,2015-04-24 09:02:45,@orionwl just merged pruning support in #Bitcoin Core! Run a (no wallet) full node with 1.3 GB storage. Thanks to all who contributed.
+590545176189345793,2015-04-21 15:58:36,RT @sfbitcoindevs: Greg Maxwell from @Blockstream discussing privacy in Bitcoin Core! Thanks to our sponsor @BitPay http://t.co/wM5KJJHulM
+588784602547941377,2015-04-16 19:22:42,RT @least_nathan: Status: searching for a consensus of understanding among designers of alternative consensus protocols. #metaconsensus
+587984197916168193,2015-04-14 14:22:11,RT @blocktrail: What happened on #bitcoin testnet yesterday? https://t.co/OU2mKPH36b
+578676929097777152,2015-03-19 21:58:25,"@BlueMeanie4 @iang_fc @gavinandresen Bitcoin's consensus code should use none, if we want to avoid forks due to library differences. #hard"
+578597243013455872,2015-03-19 16:41:47,RT @gavinandresen: Looks like the #OpenSSL vulnerabilities announced today don't affect #Bitcoin Core (Yay! No release fire-drill today)
+577405792359489536,2015-03-16 09:47:23,"RT @SwiftOnSecurity: What if someone creates a Proof-of-work system only biological brains are good at, it replaces Bitcoin, then the machi…"
+574938705934290945,2015-03-09 14:24:03,"RT @Kosmatos: ""We like the lightbulb (blockchain) but can we do it w/out this electricity thing? (bitcoin) We've done that, it's the kerose…"
+573884128438919169,2015-03-06 16:33:33,"RT @martijn_grooten: Downgrade attack:
+""Enter your 20-digit password""
+""Oh, darn, I've forgotten it""
+""Then what's your mother's maiden name?…"
+572360252856918016,2015-03-02 11:38:12,RT @lucas_lclc: Wednesday 11. March: #Bitcoin Core Release 0.10 - Pieter Wuille - #Zürich http://t.co/S0aCJmWJwb
+570610611463323648,2015-02-25 15:45:45,"RT @FortuneBitXBit: .@austinhill ""Greg Maxwell: This is just totally broken beyond belief."" (Bitcoin… http://t.co/Xdquugs2zB #bitXbit http:…"
+570417870334791680,2015-02-25 02:59:52,RT @petertoddbtc: .@virtuallylaw The only new thing the Bitcoin #blockchain brings to #voting tech is the ability to securely sell your vot…
+570332910089187328,2015-02-24 21:22:16,#Bitcoin mining in a satellite? Now we need to worry about collusion AND collision attacks...
+569010172171063296,2015-02-21 05:46:11,"RT @yawnbox: Mo: Equation Group drive firmware phun
+Tu: FreeBSD RNG omg
+ We: Lenovo Superfish wtf
+Th: All Your SIM Card R Belong To Us
+Fr: …"
+567420074210783232,2015-02-16 20:27:42,"RT @orionwl: #Bitcoin #Core 0.10.0 has been released! Get it at https://t.co/R4eUnqF2OG , read the release notes: https://t.co/p0pMoy1jvS"
+566485874339090436,2015-02-14 06:35:31,My presentation slides on Bitcoin Core 0.10 for the SF Bitcoin dev meetup last monday: https://t.co/6c0PAiB1Jo @sfbitcoindevs
+565065569448120320,2015-02-10 08:31:44,RT @sfbitcoindevs: Bitcoin core dev @pwuille discussing improvements coming to #Bitcoin v.0.10.0. Thanks to @ChangeTip &amp; @chain! http://t.c…
+565060876923703296,2015-02-10 08:13:06,RT @lopp: Packed house @ SF Bitcoin dev meetup to hear @pwuille talk about the upcoming Bitcoin Core 0.10 release! http://t.co/0pAIC44gCE
+565045538513756160,2015-02-10 07:12:09,"RT @psalami: #bitcoin core developer Pieter Wuille on new features in v0.10: better / faster download, crypto. #blockchain http://t.co/D0SS…"
+565045469219672064,2015-02-10 07:11:52,"RT @lopp: ""Pruning should arrive in Bitcoin Core 0.11, allowing people to run a full node with only 1 GB of storage space."" @pwuille"
+562688670277591042,2015-02-03 19:06:47,RT @Blockstream: Watch @epicenterbtc with @adam3us &amp; Gregory Maxwell right now http://t.co/yigTveXrg3 #bitcoin #sidechains
+557685503190114304,2015-01-20 23:45:59,"RT @BTCFoundation: #Bitcoin Core - Status Update on Version 0.10 by Cory Fields, @BTCFoundation Supported Developer https://t.co/wDdjMEaSfh"
+557330039222833153,2015-01-20 00:13:30,Greg Maxwell and me are in Boston this week. Any #Bitcoin meetups we should know about?
+557288136511070209,2015-01-19 21:27:00,"@comefrombeyond @adam3us Bitcoin is absolutely not protected against quantum computers, but postquantum crypto tends to have bad tradeoffs."
+556577391838248960,2015-01-17 22:22:45,"RT @jgarzik: Now that #Bitcoin Core dropped ""beta"" label, it will be rebranded as Bitcoin For Workgroups. Or maybe, Bitcoin Core Enterprise…"
+554088331152474112,2015-01-11 01:32:07,RT @petertoddbtc: Important msg regarding the latest OpenSSL and Bitcoin Core: http://t.co/LhSiBxxVmU ⇐ We could have had another fork if n…
+548144745152008192,2014-12-25 15:54:25,"RT @petertoddbtc: .@MrChrisEllis Not only is Bitcoin open for Christmas, but two new pull-reqs have been opened already today: https://t.co…"
+539566524097638400,2014-12-01 23:47:38,"RT @BTCFoundation: 2nd Workshop on Bitcoin Research (January 30, 2015, Puerto Rico) http://t.co/wBFCYEq746 sponsored by @BTCFoundation #btc…"
+539566242286559234,2014-12-01 23:46:31,RT @jgarzik: #Bitcoin Core merges ECDSA deterministic signatures (RFC6979). https://t.co/TvTbr4mBvL
+538060151367172096,2014-11-27 20:01:51,RT @BTCFoundation: Thank you @TheBlockstream for supporting 2 #Bitcoin core developers Gregory Maxwell &amp; Pieter Wuille http://t.co/PwCcBWx3…
+528819682904932352,2014-11-02 08:03:32,RT @gavinandresen: Getting cold at night. Where can I buy a bitcoin-mining electric blanket?
+527748743719047168,2014-10-30 09:08:00,RT @orionwl: Call for testing and review - help if you want autoprune in #bitcoin #core 0.10:  https://t.co/fqPgYqABnE #pruning
+527572225365643264,2014-10-29 21:26:35,RT @Blockstream: Sidechains co-author @TheBlueMatt sums up response from #bitcoin community and answers questions and misconceptions: http:…
+525353454232145921,2014-10-23 18:29:58,"RT @timoncc: @adam3us @pwuille @TheBlueMatt @MarkFriedenbach 
+Here's the link to the AMA, now finished
+http://t.co/X350FmBC99"
+524840308077764608,2014-10-22 08:30:55,"RT @orionwl: #bitcoin #core If you want to copy chainstate between ARM and x86, please help testing https://t.co/Pc9MZoSzjl"
+521736048360321024,2014-10-13 18:55:41,RT @BitPay: Retweet if you use #bitcoin
+521112870751596544,2014-10-12 01:39:24,"RT @jgarzik: ""headers first"" is a big step forward for #Bitcoin Core. @pwuille calling for pre-merge review &amp; testing: http://t.co/UPxRcAJP…"
+505087866922610688,2014-08-28 20:21:46,"RT @binarybits: The second user of Bitcoin, Hal Finney, is legally dead and his body is being frozen. http://t.co/aqlzU4FMVe"
+499099912794288128,2014-08-12 07:47:46,"RT @BenVerhaegen: O Captain, My Captain. #RIPRobinWilliams A diverse actor, comedy to drama; masterworks to pulp; I've got some movies to r…"
+498092855098105856,2014-08-09 13:06:05,RT @kateho: If developers wrote commit messages like bloggers write link bait titles ... #devchat  http://t.co/n2F8fd2xbd
+496409106409095168,2014-08-04 21:35:28,RT @BiIIMurray: 1) Go to Starbucks 2) Order coffee 3) Tell them your name is Waldo 4) Leave
+495361607988674560,2014-08-02 00:13:05,The estimated number of double-SHA256 hashes of work in the #Bitcoin blockchain just exceeded 2^80.
+489043294425714688,2014-07-15 13:46:22,#Bitcoin mining just passed 1000000000000000000000000 hashes (1 yottahash) performed since its creation.
+488413782256132097,2014-07-13 20:04:54,#Bitcoin passed Avogadro's number as total number of hashes performed on june 5th 2014. #mindblowingnumbers
+476152723424182272,2014-06-10 00:03:50,"RT @ArthurB: Using #bitcoin, it's possible for a program to pass the Turing test... #bribery"
+470827666309124096,2014-05-26 07:23:57,RT @koenvervloesem: The Bitcoin project seems to have excellent new developer documentation: https://t.co/UrPLYQGjCg
+465110193857392640,2014-05-10 12:44:46,"Happy 300000th block, #Bitcoin! What a ride: https://t.co/3V2OE9yMlO"
+460751147125731328,2014-04-28 12:03:28,"#TIL on WP's ""Intergalactic Medium"": Although the gas is very hot by terrestrial standards, 10^5 K is often called ""warm"" in astrophysics"
+456902503523962881,2014-04-17 21:10:20,We should use a #2048 game as an entropy source for generating #Bitcoin wallet seeds.
+456428592881479680,2014-04-16 13:47:11,"RT @jgarzik: I make a poor #bitcoin salesman, because I am an engineer and thus cannot avoid mentioning flaws and costs, in addition to pos…"
+455134093228130304,2014-04-13 00:03:18,"RT @blockchain: Wladimir van der Laan’s Top Four Priorities for #Bitcoin, via @Coindesk http://t.co/LfFIsWLBX9"
+454226328695631872,2014-04-10 11:56:10,RT @EdanYago: One year in real time is seven doge years in Bitcoin time. @ErikVoorhees
+453856778888167424,2014-04-09 11:27:43,"RT @DoctorGoss: Don't just ""don't be evil."" Design for ""can't be evil."" --@austinhill #brilliant #bitcoin http://t.co/KuPPg2BRpS @LetsTalkB…"
+453246804877123584,2014-04-07 19:03:53,RT @BTCFoundation: Introducing #Bitcoin Core Maintainer: Wladimir van der Laan by @gavinandresen http://t.co/OYybntJXUB
+451135802979131393,2014-04-01 23:15:31,Bitcoin can finally switch to a finite monetary supply! https://t.co/PcXJJGXOd5 #fortytwo
+451089741874995200,2014-04-01 20:12:29,"RT @socrates1024: For Apr 1, @pwuille shows Bitcoin supply is accidentally infinite https://t.co/Qym11bYsK6 http://t.co/ckqxNopFRU"
+443458780588564480,2014-03-11 18:49:47,"RT @TheBlueMatt: ""Bitcoin is a gateway drug to SNARKs"" -sipa"
+441728969654554624,2014-03-07 00:16:07,RT @culturecrib: US press cares more about who invented #bitcoin than why it needed to be invented.  #nakamoto
+440878675274522624,2014-03-04 15:57:21,"RT @jgarzik: RE hacks... is #bitcoin too easy to code for?  People entrusted with millions are failing basic sw eng practices: db txn, test…"
+435868480202883072,2014-02-18 20:08:38,RT @petertoddbtc: @gavinandresen @jonyarrow @matthew_d_green We know how to scale a trust-based and centralized Bitcoin; it's decentralized…
+434772424119574528,2014-02-15 19:33:18,"RT @jgarzik: Some under the hood malleability, such as tweaking binary formats while yielding same math results, was unintentional. #bitcoin"
+434772419631644672,2014-02-15 19:33:17,"RT @jgarzik: #Bitcoin transaction malleability, by itself, is not a bug or flaw.  Some transactions may be changed, pre-confirm: https://t.…"
+426320605760466944,2014-01-23 11:48:47,"RT @jonmatonis: What would I want Google to do with Bitcoin? Google's Payments VP, @ArielBardin, solicits feedback http://t.co/Pn6LQSxGQx v…"
+423455764024672256,2014-01-15 14:04:56,"RT @marttimalmi: Found the first known bitcoin to USD transaction from my email backups. I sold 5,050 BTC for $5,02 on 2009-10-12. https://…"
+422085075430567937,2014-01-11 19:18:18,RT @jgarzik: Torrent for the #bitcoin blockchain was updated.  Please seed!  https://t.co/cGKeRVpycw
+421807767025098754,2014-01-11 00:56:23,RT @jgarzik: Beta-testing new #bitcoin blockchain torrent: http://t.co/4UalysKOks  Should re-use ~70% of previous bootstrap.dat.
+419108613454831616,2014-01-03 14:10:54,RT @BTCFoundation: Happy 5th Birthday #Bitcoin! http://t.co/i7zYkqqO7u
+414783658978185216,2013-12-22 15:45:05,RT @jeffcliff1: @bitcoinfoundation is blocked by default on isp @o2 's network in the #uk #bitcoin
+407181010334257152,2013-12-01 16:14:52,#Bitcoin suddenly having much value hugely complicates everything. #firstworldproblems #notreallycomplaining
+402567962370265088,2013-11-18 22:44:16,"RT @BTCFoundation: ""You don't think it was @algore do you?"" @SenatorCarper on the creator of #bitcoin, Satoshi Nakamoto http://t.co/Bsw0U8v…"
+401101172150640640,2013-11-14 21:35:46,RT @socrates1024: Is anyone even interested or concerned if Ripple's consensus assumptions make any sense? https://t.co/deh0Xsu1gs
+398460420237066241,2013-11-07 14:42:21,RT @matthew_d_green: Apropos of @socrates1024's Tweet: the 1st Technical Workshop on Bitcoin research is coming up fast. Submit! http://t.c…
+385502165948960768,2013-10-02 20:30:53,"RT @jgarzik: FBI charge list: ""Bitcoins are not illegal in and of themselves and have known legitimate uses.""   #bitcoin"
+380439511152726016,2013-09-18 21:13:42,RT @jgarzik: SECG chair on #bitcoin use of secp256k1 ECC curve: https://t.co/sYTQkMSdE5
+378324713602555904,2013-09-13 01:10:15,"RT @gavinandresen: Bitcoin-Qt 0.8.5 released to fix ""do you want to reindex?"" bug on restart: https://t.co/qbls5huvCb"
+372828509951258624,2013-08-28 21:10:18,"RT @stevelosh: HTTP status ranges in a nutshell:
+
+1xx: hold on
+2xx: here you go
+3xx: go away
+4xx: you fucked up
+5xx: I fucked up"
+363595733876080640,2013-08-03 09:42:32,"RT @jgarzik: Ordered an ASICMINER USB #bitcoin miner via http://t.co/IJvHyCrSaO. At 0.6 BTC per, unlikely to earn back h/w cost.  Still, a …"
+357986005824970752,2013-07-18 22:11:29,I just realized that the #Bitcoin total hash rate now grows faster per hour than it was in total when I first mined...
+348880123673583616,2013-06-23 19:07:58,RT @PelleB: Going after the Bitcoin Foundation is like suing the American Bankers Association for not having a banking license. #bitcoin
+348832359380037636,2013-06-23 15:58:10,"RT @jgarzik: Unlike other regulatory actions recently, THIS is nutters: #Bitcoin Foundation Receives Cease and Desist from CA http://t.co/f…"
+339855472725200897,2013-05-29 21:27:13,RT @gavinandresen: Bitcoin-Qt / bitcoind version 0.8.2 released: https://t.co/puaMnSZH58
+334811339526639617,2013-05-15 23:23:38,"RT @gojomo: Rumor: Bitcoin Conference (this weekend San Jose) is huge FBI/DHS sting, everyone'll be arrested. Pass it on! Also: I'm attendi…"
+320070744597999617,2013-04-05 07:09:46,"RT @JoeCascio: Do reporters say, ""The dollar was hacked"" when bank is robbed? No. Then why say, ""#bitcoin was hacked"" when a currency ex ..."
+300279119135006720,2013-02-09 16:24:55,RT @gavinandresen: Bitcoin-Qt / bitcoind version 0.8.0 release candidate 1 : https://t.co/PGVvnvzY
+296775252191608832,2013-01-31 00:21:48,RT @jgarzik: Avalon ASIC live mining on #bitcoin network as of 6:49PM Eastern Time.
+279274751057330176,2012-12-13 17:21:03,"RT @socrates1024: Utterly pointless wiki page. Still, Lol. RT @ErikVoorhees #Bitcoin is now highest-valued currency unit http://t.co/Zu1 ..."
+277896274764775426,2012-12-09 22:03:29,"RT @Bitcoin_Central: @jonmatonis expected better from you, no one regulates #bitcoin, we're simply protecting ourselves and our users ht ..."
+274250781245440001,2012-11-29 20:37:36,"RT @koenvervloesem: Gotta love the Bitcoin community: Wikipedia doesn't accept BTC donations, so BitPay sets up a merchant account for f ..."
+273810909972025344,2012-11-28 15:29:42,RT @gavinandresen: Happy Halving Day everybody!  #bitcoin
+270171956672872449,2012-11-18 14:29:48,"RT @koenvervloesem: Number one reason why every company should at least take a look at Bitcoin: ""Bitcoin has no Terms of Service"" http:/ ..."
+269243779880452096,2012-11-16 01:01:34,RT @slushcz: WordPress Accepts Bitcoin http://t.co/EAY5ed2Z
+251582895997722624,2012-09-28 07:23:31,RT @gavinandresen: Bitcoin Foundation Launches To Drive Bitcoin's Advancement - Forbes http://t.co/SFVBAVXb
+248442507803885568,2012-09-19 15:24:44,RT @gavinandresen: Can you find the #bitcoin reference? http://t.co/8s0bAZ95
+243108570923683840,2012-09-04 22:09:34,"RT @zooko: Now *that's* a digital signature. Buying health insurance online, they ask me to type my full name  twice to digitally sign."
+235911884203753475,2012-08-16 01:32:30,RT @socrates1024: Bitcoin is the first World Wide Transactional Database. The internet has levelled up.
+185757039669149696,2012-03-30 15:55:04,RT @gavinandresen: Bitcoin version 0.6.0 is officially released: https://t.co/E0nS8olO
+149981037454307328,2011-12-22 22:34:00,"RT @ndw: Years ago, any proposal that required another HTTP round-trip was effectively DOA. Today, every fscking link goes through eight ..."
+138726084752576513,2011-11-21 21:10:50,RT @gavinandresen: Released #bitcoin version 0.5 today with a better Qt-based GUI. http://t.co/TZM2zPRU
+134226116310343681,2011-11-09 11:09:34,RT @mndrix: Bitcoin: Gold of the Future http://t.co/NDJtmIxA
+124438233911275520,2011-10-13 10:56:01,RT @alexparish: HOT TIP: Turn your iPhone into a Blackberry by selecting Airplane Mode.
+118248511983718400,2011-09-26 09:00:16,"RT @koenvervloesem: RT @debasishg: OH on g+ : If I ever design a programming language, I will name it ""neutrino"", so I can claim it is f ..."
+50343090019504128,2011-03-22 23:48:22,RT @justmoon: Just uploaded: What is Bitcoin? - A video explanation http://t.co/WilBpwO #bitcoin
+20086467288113155,2010-12-29 11:59:21,"happy 100000th block, #bitcoin !"
+18518658743,2010-07-14 13:21:19,"RT @Andhi: Zolang @VincentVQ en consoorten het blijven hebben over eID-stemmen/thuisstemmen, blijf ik deze link posten: http://bit.ly/a5 ..."
+10016881212,2010-03-05 09:22:49,"@jbaert: yes, con is a device name from the prehistoric DOS age that exists in every directory (like nul, aux, lpr, ...)"
+6565742380,2009-12-11 13:04:59,"my cellphone battery has 1350mAh at 3.86V (=18.7kJ,=4.47kcal). 33cl minute maid orange juice has 152kcal... #wantorangejuicebatteries"
