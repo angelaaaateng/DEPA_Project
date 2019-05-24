@@ -71,14 +71,14 @@ DEFAULT CHARACTER SET = latin1;
 CREATE TABLE IF NOT EXISTS `cryptodb`.`gtrends` (
   `coin_id` INT(20) NOT NULL,
   `date` DATETIME NOT NULL,
-  `trend` FLOAT() NOT NULL,
+  `trend` FLOAT(10) NOT NULL,
   PRIMARY KEY (`coin_id`, `date`),
   CONSTRAINT `fk_coin_gtrends`
     FOREIGN KEY (`coin_id`)
     REFERENCES `cryptodb`.`coin` (`coin_id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
-  CONSTRAINT `cryptodb`.`date`
+  CONSTRAINT `fk_gtrends_date`
     FOREIGN KEY (`date`)
     REFERENCES `cryptodb`.`date` (`date`)
     ON DELETE NO ACTION
@@ -91,22 +91,22 @@ DEFAULT CHARACTER SET = latin1;
 CREATE TABLE IF NOT EXISTS `cryptodb `.`pricing` (
   `Coin_id` INT(10) NOT NULL AUTO_INCREMENT,
   `Date` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-  `Close` FLOAT() NULL DEFAULT NULL,
-  `High ` FLOAT() NULL DEFAULT NULL,
-  `Low ` FLOAT() NULL DEFAULT NULL,
-  `Volume_from` FLOAT() NULL DEFAULT NULL,
- `Volume_To ` FLOAT() NULL DEFAULT NULL,
-  PRIMARY KEY (`Coin_id `,`Date`)),
+  `Close` FLOAT(10) NULL DEFAULT NULL,
+  `High ` FLOAT(10) NULL DEFAULT NULL,
+  `Low ` FLOAT(10) NULL DEFAULT NULL,
+  `Volume_from` FLOAT(10) NULL DEFAULT NULL,
+ `Volume_To ` FLOAT(10) NULL DEFAULT NULL,
+  PRIMARY KEY (`Coin_id `,`Date`),
   CONSTRAINT `fk_pricing_coin`
     FOREIGN KEY (`coin_id`)
     REFERENCES `cryptodb`.`coin` (`coin_id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
-  CONSTRAINT `cryptodb`.`date`
+  CONSTRAINT `fk_pricing_date`
     FOREIGN KEY (`date`)
     REFERENCES `cryptodb`.`date` (`date`)
     ON DELETE NO ACTION
-    ON UPDATE NO ACTION
+    ON UPDATE NO ACTION)
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = latin1;
 
