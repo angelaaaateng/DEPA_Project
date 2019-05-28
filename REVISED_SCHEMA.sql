@@ -40,11 +40,6 @@ CREATE TABLE IF NOT EXISTS `CRYPTODB`.`twitter` (
     REFERENCES `CRYPTODB`.`coin` (`coin_id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
-  CONSTRAINT `fk_coin_date`
-    FOREIGN KEY (`date`)
-    REFERENCES `CRYPTODB`.`date` (`date`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
 CONSTRAINT `fk_twitter_dateid`
     FOREIGN KEY (`date_id`)
     REFERENCES `cryptodb`.`date` (`date_id`)
@@ -70,11 +65,6 @@ CREATE TABLE IF NOT EXISTS `cryptodb`.`reddit` (
   CONSTRAINT `fk_post_reddit`
     FOREIGN KEY (`post_id`)
     REFERENCES `cryptodb`.`reddit_coin` (`post_id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
-  CONSTRAINT `fk_reddit_date`
-    FOREIGN KEY (`date`)
-    REFERENCES `cryptodb`.`date` (`date`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
 CONSTRAINT `fk_reddit_dateid`
@@ -106,11 +96,6 @@ CREATE TABLE IF NOT EXISTS `CRYPTODB`.`gtrends` (
     REFERENCES `cryptodb`.`coin` (`coin_id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
-  CONSTRAINT `fk_gtrends_date`
-    FOREIGN KEY (`date`)
-    REFERENCES `cryptodb`.`date` (`date`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
 CONSTRAINT `fk_gtrends_dateid`
     FOREIGN KEY (`date_id`)
     REFERENCES `cryptodb`.`date` (`date_id`)
@@ -130,18 +115,32 @@ CREATE TABLE IF NOT EXISTS `CRYPTODB`.`pricing` (
   `volumefrom` FLOAT(10) NULL DEFAULT NULL,
   `volumeto` FLOAT(10) NULL DEFAULT NULL,
   `date_id` BIGINT(10) NOT NULL, 
-  PRIMARY KEY (`coin_id`,`date`),
+  PRIMARY KEY (`coin_id`,`date_id`),
   CONSTRAINT `fk_pricing_coin`
     FOREIGN KEY (`coin_id`)
     REFERENCES `cryptodb`.`coin` (`coin_id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
-  CONSTRAINT `fk_pricing_date`
-    FOREIGN KEY (`date`)
-    REFERENCES `cryptodb`.`date` (`date`)
+CONSTRAINT `fk_pricing_dateid`
+    FOREIGN KEY (`date_id`)
+    REFERENCES `cryptodb`.`date` (`date_id`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = latin1;
+
+CREATE TABLE IF NOT EXISTS `CRYPTODB`.`rsubscribers` (
+  `Coin_id` INT(10) NOT NULL AUTO_INCREMENT,
+  `subreddit` VARCHAR(50) NOT NULL,
+  `total_subscribers` INT(10) NOT NULL,
+  `date_id` BIGINT(10) NOT NULL, 
+  PRIMARY KEY (`coin_id`,`date_id`),
+  CONSTRAINT `fk_rsub_coin`
+    FOREIGN KEY (`coin_id`)
+    REFERENCES `cryptodb`.`coin` (`coin_id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
-CONSTRAINT `fk_pricing_dateid`
+  CONSTRAINT `fk_rsub_dateid`
     FOREIGN KEY (`date_id`)
     REFERENCES `cryptodb`.`date` (`date_id`)
     ON DELETE NO ACTION
