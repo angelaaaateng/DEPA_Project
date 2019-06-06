@@ -3,7 +3,7 @@ A project by: Nazih Kalo, Akarsh Sahu, Sowmya Nallapaneni, Angela Teng
 
 Created for: Shree Bharadwaj 
 
-Live Tableau Visualizations on Tableau Public: https://us-east-1.online.tableau.com/#/site/akarshsahuuchicago/views/DEPA_Project_Final_Dashboard/CryptocurrencyPriceAnalysis?:iid=1
+Live Tableau Visualizations on Tableau Public: https://us-east-1.online.tableau.com/#/signin?externalRedirect=%2Ft%2Fakarshsahuuchicago%2Fviews%2FTeam-5TableauDashboardv2%2FCryptocurrencyPriceAnalysis%3FiframeSizedToWindow%3Dtrue%26:embed%3Dy%26:showAppBanner%3Dfalse%26:display_count%3Dno%26:showVizHome%3Dno%26:origin%3Dviz_share_link&site=akarshsahuuchicago
 
 ## Cryptocurrency Prediction Platform
 ### Cryptocurrency Information
