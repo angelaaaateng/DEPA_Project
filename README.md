@@ -13,7 +13,7 @@ Created for: Shree Bharadwaj
 - Design: contains EER models (images) and sql scripts to generate the DDL and DML
 - Archive: contains old versions of code, old schemas, as well as prior visualizations
 
-*Live Tableau Visualizations on Tableau Public:* https://us-east-1.online.tableau.com/#/signin?externalRedirect=%2Ft%2Fakarshsahuuchicago%2Fviews%2FTeam-5TableauDashboardv2%2FCryptocurrencyPriceAnalysis%3FiframeSizedToWindow%3Dtrue%26:embed%3Dy%26:showAppBanner%3Dfalse%26:display_count%3Dno%26:showVizHome%3Dno%26:origin%3Dviz_share_link&site=akarshsahuuchicago
+**Live Tableau Visualizations on Tableau Public:** https://us-east-1.online.tableau.com/#/signin?externalRedirect=%2Ft%2Fakarshsahuuchicago%2Fviews%2FTeam-5TableauDashboardv2%2FCryptocurrencyPriceAnalysis%3FiframeSizedToWindow%3Dtrue%26:embed%3Dy%26:showAppBanner%3Dfalse%26:display_count%3Dno%26:showVizHome%3Dno%26:origin%3Dviz_share_link&site=akarshsahuuchicago
 
 
 ### Cryptocurrency Information
