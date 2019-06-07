@@ -3,49 +3,23 @@ A project by: Nazih Kalo, Akarsh Sahu, Sowmya Nallapaneni, Angela Teng
 
 Created for: Shree Bharadwaj 
 
-Live Tableau Visualizations on Tableau Public: https://us-east-1.online.tableau.com/#/signin?externalRedirect=%2Ft%2Fakarshsahuuchicago%2Fviews%2FTeam-5TableauDashboardv2%2FCryptocurrencyPriceAnalysis%3FiframeSizedToWindow%3Dtrue%26:embed%3Dy%26:showAppBanner%3Dfalse%26:display_count%3Dno%26:showVizHome%3Dno%26:origin%3Dviz_share_link&site=akarshsahuuchicago
-
 ## Cryptocurrency Prediction Platform
 ### Cryptocurrency Information
 - Pricing Data
-- Reddit Comments
-  - Overall Website Engagement --> mentions in posts/comments
-  - Specific Subreddit Engagement --> subscribers to specific sub
-- Twitter
-  - Hashtags
-- News Articles
-  - TechCrunch
-
+- Reddit Posts
+- Twitter Data
+ 
 
 *Note that this is a time-based analysis*
 
-To Do:
-- Visualization
-- Recommendations
-- Manually matching subreddits to cryptocurrency
-  - Ticker + hashtags
+Folder Structure:
+- Scripts: contains webscraping jupyter notebook for 4 different data sources
+- Presentation: contains final pdf and ppt presentation 
+- Visualization: contains tableau workbook with 3 different dashboards / storyboards
+- Design: contains EER models (images) and sql scripts to generate the DDL and DML
 
-Data Sources: 
-- Crypto Pricing 
-  - Crypto name 
-  - time 
-  - price
-- Reddit 
-  - Time 
-  - Title 
-  - Score
-  - Number of Comments
-  - Body 
-- Twitter
-  - Time 
-  - Post
-  - Tags 
-  - Number of Retweets
+Live Tableau Visualizations on Tableau Public: https://us-east-1.online.tableau.com/#/signin?externalRedirect=%2Ft%2Fakarshsahuuchicago%2Fviews%2FTeam-5TableauDashboardv2%2FCryptocurrencyPriceAnalysis%3FiframeSizedToWindow%3Dtrue%26:embed%3Dy%26:showAppBanner%3Dfalse%26:display_count%3Dno%26:showVizHome%3Dno%26:origin%3Dviz_share_link&site=akarshsahuuchicago
 
-Next Steps:
-- Webscraping
-- Pricing Information
-- Timeframe: April 1 2017 to April 1 2019
 
 Data Sources + Useful Resources:
 - https://coinmetrics.io/data-downloads/
