@@ -3,7 +3,19 @@ A project by: Nazih Kalo, Akarsh Sahu, Sowmya Nallapaneni, Angela Teng
 
 Created for: Shree Bharadwaj 
 
-## Cryptocurrency Prediction Platform
+## Cryptocurrency Prediction using Social Media Indicators
+
+
+### Folder Structure:
+- Scripts: contains webscraping jupyter notebook for 4 different data sources
+- Presentation: contains final pdf and ppt presentation 
+- Visualization: contains tableau workbook with 3 different dashboards / storyboards
+- Design: contains EER models (images) and sql scripts to generate the DDL and DML
+- Archive: contains old versions of code, old schemas, as well as prior visualizations
+
+*Live Tableau Visualizations on Tableau Public:* https://us-east-1.online.tableau.com/#/signin?externalRedirect=%2Ft%2Fakarshsahuuchicago%2Fviews%2FTeam-5TableauDashboardv2%2FCryptocurrencyPriceAnalysis%3FiframeSizedToWindow%3Dtrue%26:embed%3Dy%26:showAppBanner%3Dfalse%26:display_count%3Dno%26:showVizHome%3Dno%26:origin%3Dviz_share_link&site=akarshsahuuchicago
+
+
 ### Cryptocurrency Information
 - Pricing Data
 - Reddit Posts
@@ -11,15 +23,6 @@ Created for: Shree Bharadwaj
  
 
 *Note that this is a time-based analysis*
-
-Folder Structure:
-- Scripts: contains webscraping jupyter notebook for 4 different data sources
-- Presentation: contains final pdf and ppt presentation 
-- Visualization: contains tableau workbook with 3 different dashboards / storyboards
-- Design: contains EER models (images) and sql scripts to generate the DDL and DML
-
-Live Tableau Visualizations on Tableau Public: https://us-east-1.online.tableau.com/#/signin?externalRedirect=%2Ft%2Fakarshsahuuchicago%2Fviews%2FTeam-5TableauDashboardv2%2FCryptocurrencyPriceAnalysis%3FiframeSizedToWindow%3Dtrue%26:embed%3Dy%26:showAppBanner%3Dfalse%26:display_count%3Dno%26:showVizHome%3Dno%26:origin%3Dviz_share_link&site=akarshsahuuchicago
-
 
 Data Sources + Useful Resources:
 - https://coinmetrics.io/data-downloads/
