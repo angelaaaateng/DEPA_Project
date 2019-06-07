@@ -1,5 +1,5 @@
 # Data Engineering Platforms Project
-A project by: Nazih Kalo, Akarsh Sahu, Sowmya Nallapaneni, Angela Teng
+**A project by: Nazih Kalo, Akarsh Sahu, Sowmya Nallapaneni, Angela Teng**
 
 Created for: Shree Bharadwaj 
 
