@@ -24,7 +24,7 @@ Created for: Shree Bharadwaj
 
 *Note that this is a time-based analysis*
 
-Data Sources + Useful Resources:
+**Data Sources + Useful Resources:**
 - https://coinmetrics.io/data-downloads/
 - https://coinmarketcap.com/api/documentation/v1/#operation/getV1CryptocurrencyInfo
 - https://www.reddit.com/r/datasets/comments/65o7py/updated_reddit_comment_dataset_as_torrents/
